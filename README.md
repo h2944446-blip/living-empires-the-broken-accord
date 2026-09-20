@@ -1,5 +1,9 @@
 # Living Empires: The Broken Accord
 
+**Build Riverhold. Keep your promises. Defend the crossing.**
+
+**Windows x64 · Offline strategy · Unity 6 / URP · Playable prototype**
+
 A small, offline settlement and strategy game built in Unity. Grow a river town, keep trade promises through winter, and command a militia in a separate military chapter.
 
 This repository is an early playable project being developed in public. It contains two bounded scenarios, with room for contributions to gameplay, usability, art, documentation, and testing. It is not yet a full civilization campaign.
@@ -10,7 +14,20 @@ To play the Windows prerelease, extract the whole release ZIP and run `LivingEmp
 
 ![The Toll War military chapter](Documentation/images/toll-war.png)
 
-![First Winter Delivery settlement chapter](Documentation/images/first-winter.png)
+*Riverhold's militia gathers beside the restored crossing in The Toll War.*
+
+## See the game
+
+| Build a settlement | Keep trade promises |
+| --- | --- |
+| [![A developed Riverhold settlement with workshops, workers and traveling cargo](Documentation/images/first-winter.png)](Documentation/images/first-winter.png) | [![Delivery contracts showing quantities, payments, deadlines and negotiation](Documentation/images/delivery-contracts.png)](Documentation/images/delivery-contracts.png) |
+| Assign workers, connect production chains and protect the food reserve. | Compare offers, negotiate terms and deliver before the deadline. |
+
+[![Army command interface with selected squads beside the barracks and bridge](Documentation/images/army-commands.png)](Documentation/images/army-commands.png)
+
+*Select squads, then choose Move, Attack, Patrol, Escort, Rally, Hold position or Retreat.*
+
+These are unretouched captures from the Windows Community Edition. The settlement and deployed-militia overviews show seeded performance fixtures; the contracts and command-interface captures come from runtime tests. Click an image for full size. [Capture details](Documentation/images/README.md).
 
 ## Playable chapters
 
