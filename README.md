@@ -8,9 +8,9 @@ This repository is an early playable project being developed in public. It conta
 
 To play the Windows prerelease, extract the whole release ZIP and run `LivingEmpiresCommunity.exe`. See the [portable player instructions](Documentation/WINDOWS_README.txt).
 
-![The Toll War military chapter](images/toll-war.png)
+![The Toll War military chapter](Documentation/images/toll-war.png)
 
-![First Winter Delivery settlement chapter](images/first-winter.png)
+![First Winter Delivery settlement chapter](Documentation/images/first-winter.png)
 
 ## Playable chapters
 
