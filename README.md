@@ -66,6 +66,8 @@ The [PowerShell tools](Tools/README.md) provide local verification, a Windows bu
 
 ## Join development
 
+The [public launch record](Documentation/PUBLICATION.md) links the download, contributor backlog and Unity community announcement status.
+
 Start with [CONTRIBUTING.md](CONTRIBUTING.md) and the [starter issue candidates](Documentation/STARTER_ISSUES.md). Small pull requests, reproducible bug reports, and playtest observations are welcome. The [roadmap](ROADMAP.md) distinguishes the current game from possible future work; it is not a release schedule. Changes are tracked in [CHANGELOG.md](CHANGELOG.md).
 
 Current limits include no territorial conquest, cavalry, siege engines, treaty system, research tree, fog of war, multiplayer, or complete open-world campaign. There are no queued waypoints or control groups. Equipment upgrades affect statistics without replacing each soldier's model, and archer damage is resolved without physical arrow projectiles. Named heroes do not yet have bespoke 3D likenesses or cinematic performances.
