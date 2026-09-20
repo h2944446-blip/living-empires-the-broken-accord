@@ -1,0 +1,229 @@
+{
+  "events": [
+    {
+      "speaker": "Riverhold Council",
+      "speaker_id": "Riverhold Council",
+      "title": "A promise we can keep",
+      "text": "Ironvale has a hundred like this. Pinewatch has the timber. We have the river between them.\n\nAnd what do we have to offer?\n\nA crossing. If they believe we'll finish it.\n\nThe hired ferry can take a small load now. Enough to learn the route, and prove we deliver. The High Pass closes with the snow. We should use the time we have.\n\nThen we begin small. What can we send without risking the town's reserves?\n\nI will put the quantity, the price, and the arrival date in front of you. We can choose a smaller shipment. The charter already gives you authority to trade within the public budget.\n\nAnd while that cargo travels, I will inspect the foundations. There is work here worth saving.\n\nGood. Show me the stores and the landing. We make the first promise when we know we can keep it.",
+      "audio": "Narrative/audio/00_opening_council_assembled",
+      "image": "Narrative/images/rowan",
+      "lines": [
+        {
+          "speaker": "Bram Alder",
+          "speaker_id": "bram",
+          "text": "Ironvale has a hundred like this. Pinewatch has the timber. We have the river between them.",
+          "start": 0.0,
+          "end": 6.48
+        },
+        {
+          "speaker": "Mira Holt",
+          "speaker_id": "mira",
+          "text": "And what do we have to offer?",
+          "start": 6.83,
+          "end": 8.83
+        },
+        {
+          "speaker": "Bram Alder",
+          "speaker_id": "bram",
+          "text": "A crossing. If they believe we'll finish it.",
+          "start": 9.18,
+          "end": 12.22
+        },
+        {
+          "speaker": "Ira Fen",
+          "speaker_id": "ira",
+          "text": "The hired ferry can take a small load now. Enough to learn the route, and prove we deliver. The High Pass closes with the snow. We should use the time we have.",
+          "start": 12.57,
+          "end": 21.53
+        },
+        {
+          "speaker": "Rowan Ash",
+          "speaker_id": "rowan",
+          "text": "Then we begin small. What can we send without risking the town's reserves?",
+          "start": 21.88,
+          "end": 26.68
+        },
+        {
+          "speaker": "Mira Holt",
+          "speaker_id": "mira",
+          "text": "I will put the quantity, the price, and the arrival date in front of you. We can choose a smaller shipment. The charter already gives you authority to trade within the public budget.",
+          "start": 27.03,
+          "end": 38.71
+        },
+        {
+          "speaker": "Bram Alder",
+          "speaker_id": "bram",
+          "text": "And while that cargo travels, I will inspect the foundations. There is work here worth saving.",
+          "start": 39.06,
+          "end": 46.34
+        },
+        {
+          "speaker": "Rowan Ash",
+          "speaker_id": "rowan",
+          "text": "Good. Show me the stores and the landing. We make the first promise when we know we can keep it.",
+          "start": 46.69,
+          "end": 52.77
+        }
+      ],
+      "audio_duration": 52.77,
+      "context": "Opening council before the first guided shipment. Full transcript below; speaker names are in lines. Timings are whole-take boundaries, not word alignment.",
+      "id": "opening"
+    },
+    {
+      "speaker": "Rowan Ash",
+      "speaker_id": "rowan",
+      "title": "Before the first promise",
+      "text": "Good. Show me the stores and the landing. We make the first promise when we know we can keep it.",
+      "audio": "Narrative/audio/21_council_rowan_two",
+      "image": "Narrative/images/rowan",
+      "lines": [
+        {
+          "speaker": "Rowan Ash",
+          "speaker_id": "rowan",
+          "text": "Good. Show me the stores and the landing. We make the first promise when we know we can keep it.",
+          "start": 0.0,
+          "end": 6.08
+        }
+      ],
+      "audio_duration": 6.08,
+      "context": "After the first local production, inspect stores before committing a shipment. This line does not name a resource or claim a contract has been fulfilled.",
+      "audio_cue_id": "21_council_rowan_two",
+      "id": "first_production"
+    },
+    {
+      "speaker": "Mira Holt",
+      "speaker_id": "mira",
+      "title": "Set the terms",
+      "text": "I will put the quantity, the price, and the arrival date in front of you. We can choose a smaller shipment. The charter already gives you authority to trade within the public budget.",
+      "audio": "Narrative/audio/19_council_mira_two",
+      "image": "Narrative/images/mira",
+      "lines": [
+        {
+          "speaker": "Mira Holt",
+          "speaker_id": "mira",
+          "text": "I will put the quantity, the price, and the arrival date in front of you. We can choose a smaller shipment. The charter already gives you authority to trade within the public budget.",
+          "start": 0.0,
+          "end": 11.68
+        }
+      ],
+      "audio_duration": 11.68,
+      "context": "A usable connection makes a bounded shipment possible. This line concerns contract terms and does not assert a particular bridge, ferry or road.",
+      "audio_cue_id": "19_council_mira_two",
+      "id": "crossing_ready"
+    },
+    {
+      "speaker": "Mira Holt",
+      "speaker_id": "mira",
+      "title": "A promise kept",
+      "text": "That delivery is in the ledger. One kept promise gives our neighbours a reason to trade again.\n\nCheck what remains in Riverhold's stores before we offer the next cargo.",
+      "audio": "",
+      "image": "Narrative/images/mira",
+      "lines": [],
+      "audio_duration": 0.0,
+      "context": "Show only after the first delivery actually arrives. Authored demo dialogue; no recorded clip supplied.",
+      "id": "first_delivery"
+    },
+    {
+      "speaker": "Mira Holt",
+      "speaker_id": "mira",
+      "title": "An overdue promise",
+      "text": "The arrival date has passed. We owe our neighbours an honest account of what went wrong.\n\nRead the terms in the ledger, keep the town fed, and inspect the route before making another promise. A failed agreement need not become a failed town.",
+      "audio": "",
+      "image": "Narrative/images/mira",
+      "lines": [],
+      "audio_duration": 0.0,
+      "context": "Show only when a contract deadline is missed. Consequences and amounts come from the simulation; this dialogue grants no waiver or resources.",
+      "id": "missed_contract"
+    },
+    {
+      "speaker": "Ira Fen",
+      "speaker_id": "ira",
+      "title": "Winter at the High Pass",
+      "text": "Snow is closing the High Pass to outside supplies. The routes below it still connect the valley, if we keep them working.\n\nCount the reserves. Check the journey before you promise its arrival date. We still have neighbours, and we still have work to do.",
+      "audio": "",
+      "image": "Narrative/images/ira",
+      "lines": [],
+      "audio_duration": 0.0,
+      "context": "Winter transition. Internal valley routes remain possible; this dialogue does not claim universal road closure or a forced famine.",
+      "id": "winter"
+    },
+    {
+      "speaker": "Rowan Ash",
+      "speaker_id": "rowan",
+      "title": "Riverhold keeps its word",
+      "text": "We have given Riverhold a beginning worth keeping: work that feeds the town, a route our neighbours can use, and a promise carried through.\n\nThere will be harder seasons. For now, let the ledger show what our people made possible.",
+      "audio": "",
+      "image": "Narrative/images/rowan",
+      "lines": [],
+      "audio_duration": 0.0,
+      "context": "Show on the demo objective being met. A local milestone, not the end of the four-act campaign or a claim that all factions signed an accord.",
+      "id": "success"
+    },
+    {
+      "speaker": "Mira Holt",
+      "speaker_id": "mira",
+      "title": "A smaller promise",
+      "text": "We can still put the accounts in order. Start with the food the town needs, then the inputs our workshops are missing.\n\nReduce commitments that outstrip the stores. Restore one useful connection and give one reliable delivery a chance. The next promise can be smaller.",
+      "audio": "",
+      "image": "Narrative/images/mira",
+      "lines": [],
+      "audio_duration": 0.0,
+      "context": "Recoverable setback or continuation advice. No free cargo, accepted loan, automatic rescue or forgiven penalty is implied.",
+      "id": "recovery"
+    },
+    {
+      "id": "recovered",
+      "speaker": "Rowan Ash",
+      "speaker_id": "rowan",
+      "title": "Riverhold stands again",
+      "text": "Winter did not have the last word. We have met the charter's terms and given Riverhold a footing again.\n\nWe took longer than we hoped. Let the ledger show that our people stayed, repaired what failed, and kept working until their neighbours could rely on them.",
+      "audio": "",
+      "image": "Narrative/images/rowan",
+      "lines": [],
+      "audio_duration": 0.0,
+      "context": "Show when the charter objectives are achieved after the winter deadline. This is a recovered outcome, distinct from the recovery advice event. Authored dialogue only."
+    },
+    {
+      "speaker": "Narrator",
+      "speaker_id": "narrator",
+      "title": "A crossing worth keeping",
+      "text": "Twelve years ago, the river gates failed. Fields drowned. Roads emptied. The River Crown fell, and the cities of the Veyran Basin learned to survive apart.\n\nSome remember stolen grain. Some remember repair crews that never came. Every city keeps a different account of the Breaking.\n\nNow winter gathers above the High Pass. At Riverhold, a damaged landing serves a working farm, a timber crew, and families who have decided to stay. Beneath their crossing, the old foundations still hold.\n\nThe council has chosen you as First Steward. There are warehouses to mend, neighbors to bargain with, and promises your people will have to live by.\n\nBeyond the fields, forgotten gates hum beneath dry canals. Their secrets can wait. The first shipment cannot.\n\nBegin with a road. A mill. A promise you can keep. The basin will learn your city's name.",
+      "audio": "Narrative/audio/01_prologue",
+      "image": "Narrative/images/rowan",
+      "lines": [
+        {
+          "speaker": "Narrator",
+          "speaker_id": "narrator",
+          "text": "Twelve years ago, the river gates failed. Fields drowned. Roads emptied. The River Crown fell, and the cities of the Veyran Basin learned to survive apart.\n\nSome remember stolen grain. Some remember repair crews that never came. Every city keeps a different account of the Breaking.\n\nNow winter gathers above the High Pass. At Riverhold, a damaged landing serves a working farm, a timber crew, and families who have decided to stay. Beneath their crossing, the old foundations still hold.\n\nThe council has chosen you as First Steward. There are warehouses to mend, neighbors to bargain with, and promises your people will have to live by.\n\nBeyond the fields, forgotten gates hum beneath dry canals. Their secrets can wait. The first shipment cannot.\n\nBegin with a road. A mill. A promise you can keep. The basin will learn your city's name.",
+          "start": 0.0,
+          "end": 63.44
+        }
+      ],
+      "audio_duration": 63.44,
+      "context": "Optional replay of the full original prologue. Contains the pre-campaign history, not a new simulated event.",
+      "audio_cue_id": "01_prologue",
+      "id": "prologue"
+    },
+    {
+      "speaker": "Ira Fen",
+      "speaker_id": "ira",
+      "title": "Ira: two river routes",
+      "text": "I surveyed both channels this morning. The near bank gives us a shorter crossing, but the old landing can only unload one boat at a time. The deeper bend takes longer and has room for heavier cargo. Neither route improves because we wish it would. Choose what the shipment needs, leave room for the river to surprise us, and I will tell the crew where we are going.",
+      "audio": "Narrative/audio/22_ira_route_report",
+      "image": "Narrative/images/ira",
+      "lines": [
+        {
+          "speaker": "Ira Fen",
+          "speaker_id": "ira",
+          "text": "I surveyed both channels this morning. The near bank gives us a shorter crossing, but the old landing can only unload one boat at a time. The deeper bend takes longer and has room for heavier cargo. Neither route improves because we wish it would. Choose what the shipment needs, leave room for the river to surprise us, and I will tell the crew where we are going.",
+          "start": 0.0,
+          "end": 21.04
+        }
+      ],
+      "audio_duration": 21.04,
+      "context": "Optional campaign reference recording after a pilot survey. It describes two river channels; do not trigger as a factual status report unless the current simulation exposes those channels.",
+      "audio_cue_id": "22_ira_route_report",
+      "id": "route_report"
+    }
+  ]
+}

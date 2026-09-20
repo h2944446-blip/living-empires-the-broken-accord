@@ -1,0 +1,51 @@
+# Keep serialized Unity assets and source readable in cross-platform diffs.
+* text=auto
+*.cs text eol=lf
+*.shader text eol=lf
+*.hlsl text eol=lf
+*.cginc text eol=lf
+*.md text eol=lf
+LICENSE text eol=lf
+*.json text eol=lf
+*.yml text eol=lf
+*.yaml text eol=lf
+*.meta text eol=lf
+*.unity text eol=lf
+*.prefab text eol=lf
+*.mat text eol=lf
+*.asset text eol=lf
+*.asmdef text eol=lf
+*.asmref text eol=lf
+*.ps1 text eol=lf
+*.sh text eol=lf
+*.cmd text eol=crlf
+*.bat text eol=crlf
+
+# Do not attempt text conversion for art, audio, fonts, or archives.
+*.png binary
+*.jpg binary
+*.jpeg binary
+*.gif binary
+*.tga binary
+*.tif binary
+*.tiff binary
+*.psd binary
+*.exr binary
+*.hdr binary
+*.fbx binary
+*.blend binary
+*.glb binary
+*.wav binary
+*.ogg binary
+*.mp3 binary
+*.ttf binary
+*.otf binary
+*.zip binary
+*.unitypackage binary
+*.dll binary
+*.exe binary
+
+# Preserve upstream bytes and the hashes recorded in the asset inventory.
+Assets/Art/ThirdParty/** -text
+"Assets/TextMesh Pro/**" -text
+Documentation/Licenses/** -text

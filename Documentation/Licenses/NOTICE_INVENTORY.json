@@ -1,0 +1,348 @@
+{
+  "generated_utc": "2026-09-19T08:47:43.245881+00:00",
+  "scope": "Exact top-level license/notice files from currently resolved local Unity packages, including Editor-only packages, plus the font OFL. Inclusion here is not a claim every package ships in the player. This inventory is provenance, not a legal certification.",
+  "files": [
+    {
+      "component": "Liberation Sans font",
+      "source_path": "Assets/TextMesh Pro/Fonts/LiberationSans - OFL.txt",
+      "retained_path": "Documentation/Licenses/LiberationSans-OFL.txt",
+      "sha256": "37f8552e9a874ec10710dc0ede6a9adf168e6609fbd02a507f35629373b85a48"
+    },
+    {
+      "component": "com.unity.ai.navigation",
+      "version": "2.0.14",
+      "source_path": "Library/PackageCache/com.unity.ai.navigation@134dd6a3b97b/LICENSE.md",
+      "retained_path": "Documentation/Licenses/Packages/com.unity.ai.navigation/LICENSE.md",
+      "sha256": "2b2113e0522b3eaa9e701d70956f9affaccac7e79d99b6029903bcec7139590e"
+    },
+    {
+      "component": "com.unity.ai.navigation",
+      "version": "2.0.14",
+      "source_path": "Library/PackageCache/com.unity.ai.navigation@134dd6a3b97b/LICENSE.md.meta",
+      "retained_path": "Documentation/Licenses/Packages/com.unity.ai.navigation/LICENSE.md.meta",
+      "sha256": "8088412e316205be422bd61202a44ca9ac5b68e9a075fd026aa03f47c149c6ea"
+    },
+    {
+      "component": "com.unity.collab-proxy",
+      "version": "2.13.6",
+      "source_path": "Library/PackageCache/com.unity.collab-proxy@4628d2ba6ea4/LICENSE.md",
+      "retained_path": "Documentation/Licenses/Packages/com.unity.collab-proxy/LICENSE.md",
+      "sha256": "5df34c3570740990614c70db227189636bafdd43d5486e49e5fc5f0482fd07fa"
+    },
+    {
+      "component": "com.unity.collab-proxy",
+      "version": "2.13.6",
+      "source_path": "Library/PackageCache/com.unity.collab-proxy@4628d2ba6ea4/LICENSE.md.meta",
+      "retained_path": "Documentation/Licenses/Packages/com.unity.collab-proxy/LICENSE.md.meta",
+      "sha256": "617983cc4dd99c661f2c0f7036411162e2b3d33e732098466a20b97ae458be19"
+    },
+    {
+      "component": "com.unity.collab-proxy",
+      "version": "2.13.6",
+      "source_path": "Library/PackageCache/com.unity.collab-proxy@4628d2ba6ea4/Third Party Notices.md",
+      "retained_path": "Documentation/Licenses/Packages/com.unity.collab-proxy/Third Party Notices.md",
+      "sha256": "8e044f986eb0fb51b93452c5c350b41677c4e132dfeb9b0b278a4b9b9615a895"
+    },
+    {
+      "component": "com.unity.collections",
+      "version": "6.6.0",
+      "source_path": "Library/PackageCache/com.unity.collections@10fff0607388/LICENSE.md",
+      "retained_path": "Documentation/Licenses/Packages/com.unity.collections/LICENSE.md",
+      "sha256": "4947f647c031b0fec440237f8136386a606dd998089bb1df67316ee693f568f5"
+    },
+    {
+      "component": "com.unity.collections",
+      "version": "6.6.0",
+      "source_path": "Library/PackageCache/com.unity.collections@10fff0607388/LICENSE.md.meta",
+      "retained_path": "Documentation/Licenses/Packages/com.unity.collections/LICENSE.md.meta",
+      "sha256": "f018872390c27b35a8b9dc9fa52078fc67e65e8304d826d0d442c1abdb4df1e4"
+    },
+    {
+      "component": "com.unity.ext.nunit",
+      "version": "2.1.0",
+      "source_path": "Library/PackageCache/com.unity.ext.nunit@0198eae3b53e/LICENSE.md",
+      "retained_path": "Documentation/Licenses/Packages/com.unity.ext.nunit/LICENSE.md",
+      "sha256": "3622d79bb4de21087d36ba91bcc84816e6fc2ace098e17eb431b9e1dfb6dde32"
+    },
+    {
+      "component": "com.unity.ext.nunit",
+      "version": "2.1.0",
+      "source_path": "Library/PackageCache/com.unity.ext.nunit@0198eae3b53e/LICENSE.md.meta",
+      "retained_path": "Documentation/Licenses/Packages/com.unity.ext.nunit/LICENSE.md.meta",
+      "sha256": "e4c233a97d7aba247ea32e2dfa8cbb8b005874a9adc02f773b295f4d80ca5247"
+    },
+    {
+      "component": "com.unity.ext.nunit",
+      "version": "2.1.0",
+      "source_path": "Library/PackageCache/com.unity.ext.nunit@0198eae3b53e/Third Party Notices.md",
+      "retained_path": "Documentation/Licenses/Packages/com.unity.ext.nunit/Third Party Notices.md",
+      "sha256": "ef37b1ccbae5e9b641482cbd77a74ee96193a39d232cc8d856b9044f37db9244"
+    },
+    {
+      "component": "com.unity.ide.rider",
+      "version": "3.0.40",
+      "source_path": "Library/PackageCache/com.unity.ide.rider@e4950c6d131b/LICENSE.md",
+      "retained_path": "Documentation/Licenses/Packages/com.unity.ide.rider/LICENSE.md",
+      "sha256": "49d8e39c5ba9fa2e7b8403d994162ffc49dc7a366b0691fdfa4c06bbaadc4d81"
+    },
+    {
+      "component": "com.unity.ide.rider",
+      "version": "3.0.40",
+      "source_path": "Library/PackageCache/com.unity.ide.rider@e4950c6d131b/LICENSE.md.meta",
+      "retained_path": "Documentation/Licenses/Packages/com.unity.ide.rider/LICENSE.md.meta",
+      "sha256": "4c4ebf1585e6e99b2379cbd716b3226c24c981a9e5b644a98587e8ed798c1253"
+    },
+    {
+      "component": "com.unity.ide.visualstudio",
+      "version": "2.0.27",
+      "source_path": "Library/PackageCache/com.unity.ide.visualstudio@dc1ddd4f09b6/LICENSE.md",
+      "retained_path": "Documentation/Licenses/Packages/com.unity.ide.visualstudio/LICENSE.md",
+      "sha256": "af294e2812515c3569252d3ca7e2cb2519d82572df764529ac45ca72359e4995"
+    },
+    {
+      "component": "com.unity.ide.visualstudio",
+      "version": "2.0.27",
+      "source_path": "Library/PackageCache/com.unity.ide.visualstudio@dc1ddd4f09b6/LICENSE.md.meta",
+      "retained_path": "Documentation/Licenses/Packages/com.unity.ide.visualstudio/LICENSE.md.meta",
+      "sha256": "38a7f7080b1a6b4b3bb2ff7d3699b7b712c299338cd5ee25f065f6187f3903b7"
+    },
+    {
+      "component": "com.unity.inputsystem",
+      "version": "1.20.0",
+      "source_path": "Library/PackageCache/com.unity.inputsystem@7a4e1a2a8194/LICENSE.md",
+      "retained_path": "Documentation/Licenses/Packages/com.unity.inputsystem/LICENSE.md",
+      "sha256": "419718e59cd6c1f9c3ed80bd004394504bed368c23ad8665cce1792a33c8a02c"
+    },
+    {
+      "component": "com.unity.inputsystem",
+      "version": "1.20.0",
+      "source_path": "Library/PackageCache/com.unity.inputsystem@7a4e1a2a8194/LICENSE.md.meta",
+      "retained_path": "Documentation/Licenses/Packages/com.unity.inputsystem/LICENSE.md.meta",
+      "sha256": "516c71e85658fbac57168577b8731eb6b96cd7b1df8981f0b89cd1e6d304aff3"
+    },
+    {
+      "component": "com.unity.nuget.mono-cecil",
+      "version": "1.11.6",
+      "source_path": "Library/PackageCache/com.unity.nuget.mono-cecil@ecb9724e46ff/LICENSE.md",
+      "retained_path": "Documentation/Licenses/Packages/com.unity.nuget.mono-cecil/LICENSE.md",
+      "sha256": "76101254034fbea9afc4169e98ce15382b0f130e3bf15e7da1ca599d940e1cda"
+    },
+    {
+      "component": "com.unity.nuget.mono-cecil",
+      "version": "1.11.6",
+      "source_path": "Library/PackageCache/com.unity.nuget.mono-cecil@ecb9724e46ff/LICENSE.md.meta",
+      "retained_path": "Documentation/Licenses/Packages/com.unity.nuget.mono-cecil/LICENSE.md.meta",
+      "sha256": "0dc004df959bfa1d7ae747de5cf00b2dbd715318c10a33b8da83c78130f04a61"
+    },
+    {
+      "component": "com.unity.nuget.mono-cecil",
+      "version": "1.11.6",
+      "source_path": "Library/PackageCache/com.unity.nuget.mono-cecil@ecb9724e46ff/Third Party Notices.md",
+      "retained_path": "Documentation/Licenses/Packages/com.unity.nuget.mono-cecil/Third Party Notices.md",
+      "sha256": "99966d24b32096a2a1963d9ccec993cf1c729fafd359179ee727762b2dd2b4ba"
+    },
+    {
+      "component": "com.unity.nuget.newtonsoft-json",
+      "version": "3.2.2",
+      "source_path": "Library/PackageCache/com.unity.nuget.newtonsoft-json@4dfd81071c64/LICENSE.md",
+      "retained_path": "Documentation/Licenses/Packages/com.unity.nuget.newtonsoft-json/LICENSE.md",
+      "sha256": "a5177bfecfea04d225e4a26a631db86721a03b4080350867847e71dc26b44f85"
+    },
+    {
+      "component": "com.unity.nuget.newtonsoft-json",
+      "version": "3.2.2",
+      "source_path": "Library/PackageCache/com.unity.nuget.newtonsoft-json@4dfd81071c64/LICENSE.md.meta",
+      "retained_path": "Documentation/Licenses/Packages/com.unity.nuget.newtonsoft-json/LICENSE.md.meta",
+      "sha256": "403d44124d4a426246d6fed34c0ec49e12eb5f2bf08d938c18d4bb9678fac5a8"
+    },
+    {
+      "component": "com.unity.nuget.newtonsoft-json",
+      "version": "3.2.2",
+      "source_path": "Library/PackageCache/com.unity.nuget.newtonsoft-json@4dfd81071c64/Third Party Notices.md",
+      "retained_path": "Documentation/Licenses/Packages/com.unity.nuget.newtonsoft-json/Third Party Notices.md",
+      "sha256": "f07d2ea4af53fd1c9800b345bb4fbfa3ab0181d8c87625d6c265cd65142df097"
+    },
+    {
+      "component": "com.unity.pipeline",
+      "version": "0.7.0-exp.1",
+      "source_path": "Library/PackageCache/com.unity.pipeline@ab05e9cd7f74/LICENSE.md",
+      "retained_path": "Documentation/Licenses/Packages/com.unity.pipeline/LICENSE.md",
+      "sha256": "1ee36628b5fb54de51a6e6e9b2254a5c52cd9a797e1f2cbdd8a2a0cd1493f43b"
+    },
+    {
+      "component": "com.unity.pipeline",
+      "version": "0.7.0-exp.1",
+      "source_path": "Library/PackageCache/com.unity.pipeline@ab05e9cd7f74/LICENSE.md.meta",
+      "retained_path": "Documentation/Licenses/Packages/com.unity.pipeline/LICENSE.md.meta",
+      "sha256": "3d4f7930cab4832c7823d4148701bfa80ba265ade1739875a33b42ac8873507a"
+    },
+    {
+      "component": "com.unity.pipeline",
+      "version": "0.7.0-exp.1",
+      "source_path": "Library/PackageCache/com.unity.pipeline@ab05e9cd7f74/Third Party Notices.md",
+      "retained_path": "Documentation/Licenses/Packages/com.unity.pipeline/Third Party Notices.md",
+      "sha256": "edb1f62b93337299b1c1f94282026d36b7da976f3201588bd772e6b0e7f2b3dd"
+    },
+    {
+      "component": "com.unity.profiling.core",
+      "version": "1.0.3",
+      "source_path": "Library/PackageCache/com.unity.profiling.core@8a49f7027d06/LICENSE.md",
+      "retained_path": "Documentation/Licenses/Packages/com.unity.profiling.core/LICENSE.md",
+      "sha256": "33197414e7362ae534aeeab9ab6a9dfe0b5ca74b04f304805f592bcf667a5a99"
+    },
+    {
+      "component": "com.unity.profiling.core",
+      "version": "1.0.3",
+      "source_path": "Library/PackageCache/com.unity.profiling.core@8a49f7027d06/LICENSE.md.meta",
+      "retained_path": "Documentation/Licenses/Packages/com.unity.profiling.core/LICENSE.md.meta",
+      "sha256": "b0d96e8812899688cc9f68074c1645eadf756e0459d72e053f978d35c516a041"
+    },
+    {
+      "component": "com.unity.render-pipelines.core",
+      "version": "17.6.0",
+      "source_path": "Library/PackageCache/com.unity.render-pipelines.core@2d66c71e606e/LICENSE.md",
+      "retained_path": "Documentation/Licenses/Packages/com.unity.render-pipelines.core/LICENSE.md",
+      "sha256": "39691adc5fdaf614d951f53637e22501baf46fcc535a69ab8a21ebaa8b9e9cb4"
+    },
+    {
+      "component": "com.unity.render-pipelines.core",
+      "version": "17.6.0",
+      "source_path": "Library/PackageCache/com.unity.render-pipelines.core@2d66c71e606e/LICENSE.md.meta",
+      "retained_path": "Documentation/Licenses/Packages/com.unity.render-pipelines.core/LICENSE.md.meta",
+      "sha256": "9ede89fe517336817619230c59d20feb9d153c033b01079b58289dd01bf13fed"
+    },
+    {
+      "component": "com.unity.render-pipelines.core",
+      "version": "17.6.0",
+      "source_path": "Library/PackageCache/com.unity.render-pipelines.core@2d66c71e606e/THIRD PARTY NOTICES.md",
+      "retained_path": "Documentation/Licenses/Packages/com.unity.render-pipelines.core/THIRD PARTY NOTICES.md",
+      "sha256": "fdfacc9a242bda05b26eace324033b467b7d70e83a2761cd03337b612affc339"
+    },
+    {
+      "component": "com.unity.render-pipelines.universal-config",
+      "version": "17.6.0",
+      "source_path": "Library/PackageCache/com.unity.render-pipelines.universal-config@561422b74439/LICENSE.md",
+      "retained_path": "Documentation/Licenses/Packages/com.unity.render-pipelines.universal-config/LICENSE.md",
+      "sha256": "fa2dcbc8ff967f49342c6c61854909ba4bbcc70b27f07d25538b8eaf7be5be3c"
+    },
+    {
+      "component": "com.unity.render-pipelines.universal-config",
+      "version": "17.6.0",
+      "source_path": "Library/PackageCache/com.unity.render-pipelines.universal-config@561422b74439/LICENSE.md.meta",
+      "retained_path": "Documentation/Licenses/Packages/com.unity.render-pipelines.universal-config/LICENSE.md.meta",
+      "sha256": "a5c2a9b7ce3ae2beb360676086c41fee14804b52c78b9d498d5080cd8c60985d"
+    },
+    {
+      "component": "com.unity.render-pipelines.universal",
+      "version": "17.6.0",
+      "source_path": "Library/PackageCache/com.unity.render-pipelines.universal@8457e85b8184/LICENSE.md",
+      "retained_path": "Documentation/Licenses/Packages/com.unity.render-pipelines.universal/LICENSE.md",
+      "sha256": "4be520a425e06c8de56fa8aee1ce957cfe610406456278172a2d18b7c388c2cf"
+    },
+    {
+      "component": "com.unity.render-pipelines.universal",
+      "version": "17.6.0",
+      "source_path": "Library/PackageCache/com.unity.render-pipelines.universal@8457e85b8184/LICENSE.md.meta",
+      "retained_path": "Documentation/Licenses/Packages/com.unity.render-pipelines.universal/LICENSE.md.meta",
+      "sha256": "efb5fd0ebff05305cf9d45c8e3e2636ea8bdb23122b178c29f486abbbd1ea65d"
+    },
+    {
+      "component": "com.unity.render-pipelines.universal",
+      "version": "17.6.0",
+      "source_path": "Library/PackageCache/com.unity.render-pipelines.universal@8457e85b8184/Third Party Notices.md",
+      "retained_path": "Documentation/Licenses/Packages/com.unity.render-pipelines.universal/Third Party Notices.md",
+      "sha256": "0652509dfc81a1a3d9e037e59bd047b305155fc5c4abeef69e2fc078488035fd"
+    },
+    {
+      "component": "com.unity.searcher",
+      "version": "4.9.5",
+      "source_path": "Library/PackageCache/com.unity.searcher@a463122f2c00/LICENSE.md",
+      "retained_path": "Documentation/Licenses/Packages/com.unity.searcher/LICENSE.md",
+      "sha256": "73e67aa49be44b2b1e37d4244224bf111a82b79235324457bcc82ac4fb339f61"
+    },
+    {
+      "component": "com.unity.searcher",
+      "version": "4.9.5",
+      "source_path": "Library/PackageCache/com.unity.searcher@a463122f2c00/LICENSE.md.meta",
+      "retained_path": "Documentation/Licenses/Packages/com.unity.searcher/LICENSE.md.meta",
+      "sha256": "6495f71dd004f43137dcfdee5f096c58dd1c3eb9a35809555fa23cff69ed1970"
+    },
+    {
+      "component": "com.unity.shadergraph",
+      "version": "17.6.0",
+      "source_path": "Library/PackageCache/com.unity.shadergraph@ef6135652377/LICENSE.md",
+      "retained_path": "Documentation/Licenses/Packages/com.unity.shadergraph/LICENSE.md",
+      "sha256": "364b0c08b7fe15b70c4777dccb26fc21d02ae831c2f707dbe29879ac15ece353"
+    },
+    {
+      "component": "com.unity.shadergraph",
+      "version": "17.6.0",
+      "source_path": "Library/PackageCache/com.unity.shadergraph@ef6135652377/LICENSE.md.meta",
+      "retained_path": "Documentation/Licenses/Packages/com.unity.shadergraph/LICENSE.md.meta",
+      "sha256": "8f9a6ca2216e6394b0ce6c7166f5fa4650f712b93d06a81882f23eb49ec0c429"
+    },
+    {
+      "component": "com.unity.test-framework.performance",
+      "version": "6.6.0",
+      "source_path": "Library/PackageCache/com.unity.test-framework.performance@0a60b857a52e/LICENSE.md",
+      "retained_path": "Documentation/Licenses/Packages/com.unity.test-framework.performance/LICENSE.md",
+      "sha256": "202adffac8b9d21d3b148a294d241894f3bcef85724c01b6a0bd52269a3798c8"
+    },
+    {
+      "component": "com.unity.test-framework.performance",
+      "version": "6.6.0",
+      "source_path": "Library/PackageCache/com.unity.test-framework.performance@0a60b857a52e/LICENSE.md.meta",
+      "retained_path": "Documentation/Licenses/Packages/com.unity.test-framework.performance/LICENSE.md.meta",
+      "sha256": "f95bcdf7958d1ab53baa1777f0c4df39686b3b3495b06cb03b1ca877fe47f710"
+    },
+    {
+      "component": "com.unity.test-framework.performance",
+      "version": "6.6.0",
+      "source_path": "Library/PackageCache/com.unity.test-framework.performance@0a60b857a52e/Third Party Notices.md",
+      "retained_path": "Documentation/Licenses/Packages/com.unity.test-framework.performance/Third Party Notices.md",
+      "sha256": "361cdb83b8f7c4868ad5c61d8014ab423d9229919219f77bae1eb36084e0227a"
+    },
+    {
+      "component": "com.unity.test-framework",
+      "version": "1.8.0",
+      "source_path": "Library/PackageCache/com.unity.test-framework@7a3849e09bd0/LICENSE.md",
+      "retained_path": "Documentation/Licenses/Packages/com.unity.test-framework/LICENSE.md",
+      "sha256": "d3b09e9683afbc8d468a83000308f18e7133eaf7879af870747000a66e3c0693"
+    },
+    {
+      "component": "com.unity.test-framework",
+      "version": "1.8.0",
+      "source_path": "Library/PackageCache/com.unity.test-framework@7a3849e09bd0/LICENSE.md.meta",
+      "retained_path": "Documentation/Licenses/Packages/com.unity.test-framework/LICENSE.md.meta",
+      "sha256": "08e08d69335fa476faf6c7d50f4060fb35bf222c68d4c5f81e6029128456c412"
+    },
+    {
+      "component": "com.unity.timeline",
+      "version": "6.6.0",
+      "source_path": "Library/PackageCache/com.unity.timeline@281d5f7e7d7d/LICENSE.md",
+      "retained_path": "Documentation/Licenses/Packages/com.unity.timeline/LICENSE.md",
+      "sha256": "73111ef76bd8a502c29b167865620de787af612b5f0ba6b3a517ade3b9519853"
+    },
+    {
+      "component": "com.unity.timeline",
+      "version": "6.6.0",
+      "source_path": "Library/PackageCache/com.unity.timeline@281d5f7e7d7d/LICENSE.md.meta",
+      "retained_path": "Documentation/Licenses/Packages/com.unity.timeline/LICENSE.md.meta",
+      "sha256": "4a5a7b78ac891769b5e0b9dc4f290c90c3c49b47d90d06ad6a6198f1a3467f47"
+    },
+    {
+      "component": "com.unity.ugui",
+      "version": "2.6.0",
+      "source_path": "Library/PackageCache/com.unity.ugui@23caec89ae27/LICENSE.md",
+      "retained_path": "Documentation/Licenses/Packages/com.unity.ugui/LICENSE.md",
+      "sha256": "3f8833f9736c0b5db5076663ba5abb0a33606712fa9128456ac834fc9d43fdd6"
+    },
+    {
+      "component": "com.unity.ugui",
+      "version": "2.6.0",
+      "source_path": "Library/PackageCache/com.unity.ugui@23caec89ae27/LICENSE.md.meta",
+      "retained_path": "Documentation/Licenses/Packages/com.unity.ugui/LICENSE.md.meta",
+      "sha256": "add44e09cf1ab44a003127a34b56e1e4a7d13df4e1427d907e72c3d795852e4c"
+    }
+  ]
+}

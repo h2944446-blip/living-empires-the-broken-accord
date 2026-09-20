@@ -1,0 +1,32 @@
+Medieval Village — iedalton
+
+Original work: Medieval Village
+Creator: iedalton
+Source: https://sketchfab.com/3d-models/medieval-village-0e7dd1fd2cd64f828b625021e30704d4
+License: Creative Commons Attribution 4.0 International (CC BY 4.0)
+License URL: https://creativecommons.org/licenses/by/4.0/
+Legal code: https://creativecommons.org/licenses/by/4.0/legalcode
+
+Used/adapted for Living Empires: The Broken Accord, 19 September 2026.
+Changes made for selected game derivatives: spatial extraction of building
+regions from the combined source mesh; ground/pivot and scale normalization;
+mesh combination; solid source material colors converted to an opaque URP
+palette material; addition of gameplay selection colliders. Building-role
+mapping and gameplay behavior are additions by the Living Empires project.
+The original AllAssets.fbx file is retained unchanged. No endorsement by
+iedalton or Sketchfab is implied.
+
+The CC BY 4.0 license permits commercial sharing and adaptation subject to
+its terms, including appropriate credit, a license link and change disclosure.
+Retain this attribution and the source/license links with distributions that
+contain the original material or its derivatives. The license applies to this
+material; this notice does not license unrelated project assets or code.
+
+Acquisition record:
+The user supplied medieval-village.zip. The archive contains one combined
+AllAssets.fbx and no separate license file. The creator and CC BY 4.0 license
+were observed on the live Sketchfab model listing during this session.
+ZIP SHA-256:
+04051ede2c470fdb9d9d13bf65748daf47026009863e75ed033c7ffc14837703
+AllAssets.fbx SHA-256:
+7e1c3807d0fb5b8d74080b678f6d061f493624568f918f3e39f1639e5e144461

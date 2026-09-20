@@ -1,0 +1,27 @@
+{
+  "CreatedUtc": "2026-09-19T11:03:27.122187Z",
+  "Scope": "Portable notices for imported art; not a claim that a Windows release has already been rebuilt.",
+  "Records": [
+    {
+      "File": "MedievalVillage-iedalton-ATTRIBUTION.txt",
+      "Source": "Assets/Art/ThirdParty/Sketchfab/MedievalVillage/ATTRIBUTION.txt",
+      "SHA256": "c4acd276d52f0e25fb8f54adb39ca2e8428610269dccec2bbfa13870dab10d64",
+      "License": "CC BY 4.0",
+      "LicenseUrl": "https://creativecommons.org/licenses/by/4.0/"
+    },
+    {
+      "File": "Kenney-Fantasy-Town-License.txt",
+      "Source": "Assets/Art/ThirdParty/Kenney/Buildings/Kenney-Fantasy-Town-License.txt",
+      "SHA256": "fb8e4817197ef9f62215e95b4451a0f09c769c8e03e416e3a2ce108dfa6117e4",
+      "License": "CC0 1.0",
+      "LicenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/"
+    },
+    {
+      "File": "Kenney-Nature-License.txt",
+      "Source": "Assets/Art/ThirdParty/Kenney/nature-kit/License.txt",
+      "SHA256": "cb96b75e3560ac78d7a53ce6f083f4cdb5c53faea6141b62d63458dcfe1e4b9d",
+      "License": "CC0 1.0",
+      "LicenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/"
+    }
+  ]
+}

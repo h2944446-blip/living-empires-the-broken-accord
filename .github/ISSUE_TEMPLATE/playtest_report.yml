@@ -1,0 +1,38 @@
+name: Playtest observations
+description: Share a focused play session and what was confusing, enjoyable, or difficult.
+title: "[Playtest]: "
+body:
+  - type: dropdown
+    id: chapter
+    attributes:
+      label: Chapter
+      options:
+        - First Winter Delivery
+        - The Toll War
+        - Both chapters
+    validations:
+      required: true
+  - type: textarea
+    id: context
+    attributes:
+      label: Session context
+      description: Revision or build, platform, resolution, starting state, and approximate session length.
+    validations:
+      required: true
+  - type: textarea
+    id: experience
+    attributes:
+      label: What happened?
+      description: Describe actions and observations. Separate reproducible failures from preferences or suggestions.
+    validations:
+      required: true
+  - type: textarea
+    id: clarity
+    attributes:
+      label: What was clear or confusing?
+      description: Controls, objectives, economy, combat, readability, or feedback.
+  - type: textarea
+    id: improvement
+    attributes:
+      label: One improvement to try
+      description: Optional. Suggest a small change and the experience it might improve.

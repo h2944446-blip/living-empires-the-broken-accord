@@ -1,0 +1,56 @@
+name: Bug report
+description: Report a reproducible problem in the game or development setup.
+title: "[Bug]: "
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Check existing issues first. Share only the details needed to reproduce the problem; remove personal information and credentials from logs.
+  - type: dropdown
+    id: chapter
+    attributes:
+      label: Where does it happen?
+      options:
+        - First Winter Delivery
+        - The Toll War
+        - Menus or shared controls
+        - Import or build setup
+        - Other
+    validations:
+      required: true
+  - type: textarea
+    id: reproduction
+    attributes:
+      label: Steps to reproduce
+      description: Include the starting chapter or state and the actions that lead to the problem.
+      placeholder: |
+        1. Start...
+        2. Choose...
+        3. Observe...
+    validations:
+      required: true
+  - type: textarea
+    id: expected
+    attributes:
+      label: Expected result
+    validations:
+      required: true
+  - type: textarea
+    id: actual
+    attributes:
+      label: Actual result
+      description: Include the exact error text if available.
+    validations:
+      required: true
+  - type: textarea
+    id: environment
+    attributes:
+      label: Version and environment
+      description: Repository revision or build, Unity version, operating system, resolution, and graphics settings when relevant.
+    validations:
+      required: true
+  - type: textarea
+    id: evidence
+    attributes:
+      label: Screenshots or relevant log excerpt
+      description: Optional. Keep excerpts short and remove personal paths or other private information.

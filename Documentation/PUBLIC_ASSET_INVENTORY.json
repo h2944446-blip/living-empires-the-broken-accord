@@ -1,0 +1,968 @@
+{
+  "schema_version": 1,
+  "generated_utc": "2026-09-20T08:07:36.7356088Z",
+  "scope": "Included third-party source art, source notices and TextMesh Pro essential resources. Paths are relative to repository root. Generated building/environment derivatives are documented in THIRD_PARTY_NOTICES.md and are outside this source inventory. Unity registry package cache, project-authored source, Unity template configuration and absent narrative media are outside this inventory. A hash records bytes, not an independent license grant.",
+  "components": [
+    {
+      "id": "kenney-fantasy-town-kit",
+      "title": "Fantasy Town Kit 2.0",
+      "creator": "Kenney",
+      "license": "CC0-1.0",
+      "source_url": "https://kenney.nl/assets/fantasy-town-kit",
+      "notice": "Documentation/Licenses/Art/Kenney-Fantasy-Town-License.txt"
+    },
+    {
+      "id": "kenney-nature-kit",
+      "title": "Nature Kit 2.1",
+      "creator": "Kenney",
+      "license": "CC0-1.0",
+      "source_url": "https://kenney.nl/assets/nature-kit",
+      "notice": "Documentation/Licenses/Art/Kenney-Nature-License.txt"
+    },
+    {
+      "id": "medieval-village",
+      "title": "Medieval Village",
+      "creator": "iedalton",
+      "license": "CC-BY-4.0",
+      "source_url": "https://sketchfab.com/3d-models/medieval-village-0e7dd1fd2cd64f828b625021e30704d4",
+      "notice": "Documentation/Licenses/Art/MedievalVillage-iedalton-ATTRIBUTION.txt"
+    },
+    {
+      "id": "liberation-sans",
+      "title": "Liberation Sans font and supplied font-derived SDF assets",
+      "creator": "Google Corporation; Red Hat, Inc.",
+      "license": "OFL-1.1 for font material; Unity terms continue to apply to Unity resource containers",
+      "notice": "Documentation/Licenses/LiberationSans-OFL.txt"
+    },
+    {
+      "id": "textmesh-pro-resources",
+      "title": "TextMesh Pro essential resources supplied with uGUI",
+      "creator": "Unity Technologies",
+      "license": "Unity Companion License and applicable component notices",
+      "notice": "Documentation/Licenses/Packages/com.unity.ugui/LICENSE.md"
+    }
+  ],
+  "file_count": 92,
+  "files": [
+    {
+      "path": "Assets/Art/ThirdParty/Kenney/Buildings/cart.fbx",
+      "component": "kenney-fantasy-town-kit",
+      "bytes": 47520,
+      "sha256": "14b183ebd363865ae99bd7b2386ffdd80b19713f437513edc6216da1137acc1b",
+      "import_metadata": {
+        "path": "Assets/Art/ThirdParty/Kenney/Buildings/cart.fbx.meta",
+        "sha256": "171ca59263ed91e3c2601441bb2887526863b3e79c0219504724ffab5a0fc07d"
+      }
+    },
+    {
+      "path": "Assets/Art/ThirdParty/Kenney/Buildings/chimney-base.fbx",
+      "component": "kenney-fantasy-town-kit",
+      "bytes": 26832,
+      "sha256": "60ff08733e527c1d8ed7eef9d8cfcd2fca5236d281d74af3eebfcb0b26462d8a",
+      "import_metadata": {
+        "path": "Assets/Art/ThirdParty/Kenney/Buildings/chimney-base.fbx.meta",
+        "sha256": "6eac4f4b0fffef3df1b4cca190479889049903d9d5adc2f5649c3a5ccc276d0c"
+      }
+    },
+    {
+      "path": "Assets/Art/ThirdParty/Kenney/Buildings/chimney-top.fbx",
+      "component": "kenney-fantasy-town-kit",
+      "bytes": 26672,
+      "sha256": "062fdfe5f74438ee2ead96f256619e015ddfb21f5051c9c3d74212cff5ca6c2a",
+      "import_metadata": {
+        "path": "Assets/Art/ThirdParty/Kenney/Buildings/chimney-top.fbx.meta",
+        "sha256": "b83afae5c7bb82aa75ab081956bc95dbc524098247cd5f7a7026b68921c92257"
+      }
+    },
+    {
+      "path": "Assets/Art/ThirdParty/Kenney/Buildings/chimney.fbx",
+      "component": "kenney-fantasy-town-kit",
+      "bytes": 28192,
+      "sha256": "9197c60e51e77153068817c587f5ee65cfccacf955c45e0cb90f80b85cb57da5",
+      "import_metadata": {
+        "path": "Assets/Art/ThirdParty/Kenney/Buildings/chimney.fbx.meta",
+        "sha256": "2c59b9090bde7ed3fdecc3264bc763161252badbf8a8d1121867bcb84a11e9e5"
+      }
+    },
+    {
+      "path": "Assets/Art/ThirdParty/Kenney/Buildings/colormap.png",
+      "component": "kenney-fantasy-town-kit",
+      "bytes": 11143,
+      "sha256": "4aac939dc33195e35caf8c382ee3cb170054da763577f22d3c22692ec6afccdf",
+      "import_metadata": {
+        "path": "Assets/Art/ThirdParty/Kenney/Buildings/colormap.png.meta",
+        "sha256": "bd5dcae9d5bf811d971f9111fd4bd1a89dc68f569a4371efb9b248fe8b134164"
+      }
+    },
+    {
+      "path": "Assets/Art/ThirdParty/Kenney/Buildings/Kenney-Fantasy-Town-License.txt",
+      "component": "kenney-fantasy-town-kit",
+      "bytes": 705,
+      "sha256": "fb8e4817197ef9f62215e95b4451a0f09c769c8e03e416e3a2ce108dfa6117e4",
+      "import_metadata": {
+        "path": "Assets/Art/ThirdParty/Kenney/Buildings/Kenney-Fantasy-Town-License.txt.meta",
+        "sha256": "9efc989571cd9116b84f973f70384f58b0447cafc5dd9c3896bdc17bd90b95a8"
+      }
+    },
+    {
+      "path": "Assets/Art/ThirdParty/Kenney/Buildings/overhang.fbx",
+      "component": "kenney-fantasy-town-kit",
+      "bytes": 26720,
+      "sha256": "0745c5025b706d7370acd0a6f35048fd35e9a5e1b7a5f08dbc4c199232ba9568",
+      "import_metadata": {
+        "path": "Assets/Art/ThirdParty/Kenney/Buildings/overhang.fbx.meta",
+        "sha256": "d08294d9a1727c94710ca7b8a65402a4be6402730dc3f03794aaf8512687116f"
+      }
+    },
+    {
+      "path": "Assets/Art/ThirdParty/Kenney/Buildings/planks.fbx",
+      "component": "kenney-fantasy-town-kit",
+      "bytes": 25392,
+      "sha256": "255f4272401d5d8435fe66dea72770fef16bff344e4ee55b055ad5dc354ae499",
+      "import_metadata": {
+        "path": "Assets/Art/ThirdParty/Kenney/Buildings/planks.fbx.meta",
+        "sha256": "391567ce8a7fd3b3e2d1d1183d231bf1a3ca400448e09c7c70f372fb300d61d7"
+      }
+    },
+    {
+      "path": "Assets/Art/ThirdParty/Kenney/Buildings/poles.fbx",
+      "component": "kenney-fantasy-town-kit",
+      "bytes": 27376,
+      "sha256": "765c63d4b6fd405d366e251a9b8e82fa8bb1064792eeb0b753c80d3d345db366",
+      "import_metadata": {
+        "path": "Assets/Art/ThirdParty/Kenney/Buildings/poles.fbx.meta",
+        "sha256": "d4942f9965a6b2febcfa4062d98782eca2bd03c5a43095862c7aef97da098902"
+      }
+    },
+    {
+      "path": "Assets/Art/ThirdParty/Kenney/Buildings/roof-gable.fbx",
+      "component": "kenney-fantasy-town-kit",
+      "bytes": 26848,
+      "sha256": "3eeadd1fba05db6be2124679877931a8b968c581cac8934bcf8e51d933f59f7e",
+      "import_metadata": {
+        "path": "Assets/Art/ThirdParty/Kenney/Buildings/roof-gable.fbx.meta",
+        "sha256": "c81857f06891fbbd5d38097f9505cf564ab907ecbc0ad93d3f4cc3498c97d86e"
+      }
+    },
+    {
+      "path": "Assets/Art/ThirdParty/Kenney/Buildings/roof-high-gable.fbx",
+      "component": "kenney-fantasy-town-kit",
+      "bytes": 26800,
+      "sha256": "9b6c0f3a2be54c3386f86ad8ce22b6aafa2b2448f166c1c3458556c7499972fd",
+      "import_metadata": {
+        "path": "Assets/Art/ThirdParty/Kenney/Buildings/roof-high-gable.fbx.meta",
+        "sha256": "62f3ad873e8c14d8a7cca28a74856812885560d503bd4d0adacc3d8826250d0b"
+      }
+    },
+    {
+      "path": "Assets/Art/ThirdParty/Kenney/Buildings/roof-point.fbx",
+      "component": "kenney-fantasy-town-kit",
+      "bytes": 26736,
+      "sha256": "1c581b7bbc5e943e44bdb31a0c44e907e3b42e97e82b31a95e8c461d5d08d9b3",
+      "import_metadata": {
+        "path": "Assets/Art/ThirdParty/Kenney/Buildings/roof-point.fbx.meta",
+        "sha256": "3c028366b5eb350eeeffbc5e257799541c164b77b9891b3030e5ea62bb06eac5"
+      }
+    },
+    {
+      "path": "Assets/Art/ThirdParty/Kenney/Buildings/stall-bench.fbx",
+      "component": "kenney-fantasy-town-kit",
+      "bytes": 27072,
+      "sha256": "470763a3b1ac43c3fe45beda2ac41cb28e279746b46dab6c892e84dfa7542b80",
+      "import_metadata": {
+        "path": "Assets/Art/ThirdParty/Kenney/Buildings/stall-bench.fbx.meta",
+        "sha256": "90e506b9e0c1b9f1d0844dc9320f026a95f8ac219b0714f16483e1f8cc14ff7a"
+      }
+    },
+    {
+      "path": "Assets/Art/ThirdParty/Kenney/Buildings/stall-green.fbx",
+      "component": "kenney-fantasy-town-kit",
+      "bytes": 30176,
+      "sha256": "0200dd0e85fe061618fe221e72c8f1b6337a36024d0922efe5cefd68ea75be57",
+      "import_metadata": {
+        "path": "Assets/Art/ThirdParty/Kenney/Buildings/stall-green.fbx.meta",
+        "sha256": "fb2d8e069cf5fe9d2b3529a8ee019e8329c351258ce9b8ad5a6f4792e0462c1d"
+      }
+    },
+    {
+      "path": "Assets/Art/ThirdParty/Kenney/Buildings/stall-red.fbx",
+      "component": "kenney-fantasy-town-kit",
+      "bytes": 29792,
+      "sha256": "d282f6ac4b8dd5e305f044b50aa6e0768eeb30ae01899a0ce478cefde99fe861",
+      "import_metadata": {
+        "path": "Assets/Art/ThirdParty/Kenney/Buildings/stall-red.fbx.meta",
+        "sha256": "cfeccdcb045108995313db868cdff22d5329e9cccc034a59649bd0f99569ec05"
+      }
+    },
+    {
+      "path": "Assets/Art/ThirdParty/Kenney/Buildings/stall.fbx",
+      "component": "kenney-fantasy-town-kit",
+      "bytes": 26096,
+      "sha256": "acc93ef833cd5d1dc3347e8d363597e03e9ab22f625238cdbae5550532f9afeb",
+      "import_metadata": {
+        "path": "Assets/Art/ThirdParty/Kenney/Buildings/stall.fbx.meta",
+        "sha256": "5e69b67abb0e1c94a94c6a911eeddcc1053af3227bed7812f52de3de0a08f332"
+      }
+    },
+    {
+      "path": "Assets/Art/ThirdParty/Kenney/Buildings/wall-door.fbx",
+      "component": "kenney-fantasy-town-kit",
+      "bytes": 36112,
+      "sha256": "4dc0f26f6eaa79a227a4ece70541a8b9beb89628b87d51487c8a095a1af5f121",
+      "import_metadata": {
+        "path": "Assets/Art/ThirdParty/Kenney/Buildings/wall-door.fbx.meta",
+        "sha256": "6e79425172140c89172139ee8cdf33b4b352d70c6672c5355749515dc0e69b1b"
+      }
+    },
+    {
+      "path": "Assets/Art/ThirdParty/Kenney/Buildings/wall-doorway-square-wide.fbx",
+      "component": "kenney-fantasy-town-kit",
+      "bytes": 25776,
+      "sha256": "306f3607275cffd0f50f94e3a6846679ac3eabf8ff1c671d11b05ef7cffc8fc8",
+      "import_metadata": {
+        "path": "Assets/Art/ThirdParty/Kenney/Buildings/wall-doorway-square-wide.fbx.meta",
+        "sha256": "677477137e59af3d01fed2cf7b8ef2711dd796680a262007a3abcc36d1a90cae"
+      }
+    },
+    {
+      "path": "Assets/Art/ThirdParty/Kenney/Buildings/wall-window-shutters.fbx",
+      "component": "kenney-fantasy-town-kit",
+      "bytes": 29984,
+      "sha256": "e4bc2e60e7816d2a6579cf47bc3f7cb1c9b18c07dee33878264690198e02e356",
+      "import_metadata": {
+        "path": "Assets/Art/ThirdParty/Kenney/Buildings/wall-window-shutters.fbx.meta",
+        "sha256": "7ca017b35999e0346be2fb826c13c797873265d1b17a50c6955de46291601744"
+      }
+    },
+    {
+      "path": "Assets/Art/ThirdParty/Kenney/Buildings/wall-window-small.fbx",
+      "component": "kenney-fantasy-town-kit",
+      "bytes": 25584,
+      "sha256": "689333427b958d9d64cfb8150d6432abf0f89978192e00e5369a9cd9df265389",
+      "import_metadata": {
+        "path": "Assets/Art/ThirdParty/Kenney/Buildings/wall-window-small.fbx.meta",
+        "sha256": "532a40f91f29cb5dedaf6f952d0230bfe58c6db08bf32c32ed36381475d89ff6"
+      }
+    },
+    {
+      "path": "Assets/Art/ThirdParty/Kenney/Buildings/wall-wood-door.fbx",
+      "component": "kenney-fantasy-town-kit",
+      "bytes": 36608,
+      "sha256": "1843685693d30b9afe28d43057daad0182b3730c6c9eca7ddec059eb37ccdadf",
+      "import_metadata": {
+        "path": "Assets/Art/ThirdParty/Kenney/Buildings/wall-wood-door.fbx.meta",
+        "sha256": "32c6792bf48c3e688663d1eabde8d54bf76e75d22a314e8c234ef981b25889a0"
+      }
+    },
+    {
+      "path": "Assets/Art/ThirdParty/Kenney/Buildings/wall-wood-doorway-square-wide.fbx",
+      "component": "kenney-fantasy-town-kit",
+      "bytes": 25776,
+      "sha256": "ce0139fdcd98031a469e62c1a66f4fdd2631f8dccb65dc32d9d1a485fba242e1",
+      "import_metadata": {
+        "path": "Assets/Art/ThirdParty/Kenney/Buildings/wall-wood-doorway-square-wide.fbx.meta",
+        "sha256": "9d2f21241abddfe25c5554cdba299899a5bfd6a0cfda712635c7a403f053daa3"
+      }
+    },
+    {
+      "path": "Assets/Art/ThirdParty/Kenney/Buildings/wall-wood.fbx",
+      "component": "kenney-fantasy-town-kit",
+      "bytes": 27280,
+      "sha256": "dddbb478341216c732aaa64d3daaa9f86ccce8a04fb516aea2e7db87383c9277",
+      "import_metadata": {
+        "path": "Assets/Art/ThirdParty/Kenney/Buildings/wall-wood.fbx.meta",
+        "sha256": "7ad6ead83c21fb36d13ffba60d79d3fcf198b0b38db7a0c65ac5d2d9fcf13dfd"
+      }
+    },
+    {
+      "path": "Assets/Art/ThirdParty/Kenney/Buildings/wall.fbx",
+      "component": "kenney-fantasy-town-kit",
+      "bytes": 27280,
+      "sha256": "f95918b35138bce71eb4d53538145a2b174bef663d09ff31b7000642e3c9f524",
+      "import_metadata": {
+        "path": "Assets/Art/ThirdParty/Kenney/Buildings/wall.fbx.meta",
+        "sha256": "7a489668756585c24369ed3e71d198f517cc1a44365033f3d38c535fa91e7cfa"
+      }
+    },
+    {
+      "path": "Assets/Art/ThirdParty/Kenney/fantasy-town-kit/License.txt",
+      "component": "kenney-fantasy-town-kit",
+      "bytes": 705,
+      "sha256": "fb8e4817197ef9f62215e95b4451a0f09c769c8e03e416e3a2ce108dfa6117e4",
+      "import_metadata": {
+        "path": "Assets/Art/ThirdParty/Kenney/fantasy-town-kit/License.txt.meta",
+        "sha256": "36b1079770ed19bd938dbb29505406fe9039429012fba23cc10e774a593356b7"
+      }
+    },
+    {
+      "path": "Assets/Art/ThirdParty/Kenney/fantasy-town-kit/Models/cart.fbx",
+      "component": "kenney-fantasy-town-kit",
+      "bytes": 47520,
+      "sha256": "14b183ebd363865ae99bd7b2386ffdd80b19713f437513edc6216da1137acc1b",
+      "import_metadata": {
+        "path": "Assets/Art/ThirdParty/Kenney/fantasy-town-kit/Models/cart.fbx.meta",
+        "sha256": "db56cfd7741673e4a690e88431f7adf03b136be993621b6be030407a015b1cc8"
+      }
+    },
+    {
+      "path": "Assets/Art/ThirdParty/Kenney/fantasy-town-kit/Models/planks.fbx",
+      "component": "kenney-fantasy-town-kit",
+      "bytes": 25392,
+      "sha256": "255f4272401d5d8435fe66dea72770fef16bff344e4ee55b055ad5dc354ae499",
+      "import_metadata": {
+        "path": "Assets/Art/ThirdParty/Kenney/fantasy-town-kit/Models/planks.fbx.meta",
+        "sha256": "02844889eb0638954242c217c16159c3b631fca66c282ebb552f5f5c819f478b"
+      }
+    },
+    {
+      "path": "Assets/Art/ThirdParty/Kenney/fantasy-town-kit/Models/stall.fbx",
+      "component": "kenney-fantasy-town-kit",
+      "bytes": 26096,
+      "sha256": "acc93ef833cd5d1dc3347e8d363597e03e9ab22f625238cdbae5550532f9afeb",
+      "import_metadata": {
+        "path": "Assets/Art/ThirdParty/Kenney/fantasy-town-kit/Models/stall.fbx.meta",
+        "sha256": "4f2bc4ecc78bda6ba8ccd440317b851bcc7461fa92192ac877d48504ad4742b4"
+      }
+    },
+    {
+      "path": "Assets/Art/ThirdParty/Kenney/fantasy-town-kit/SourceColors/cart.mtl.txt",
+      "component": "kenney-fantasy-town-kit",
+      "bytes": 98,
+      "sha256": "45a6736aa344a0c7e286b9c43c6a48f25b6a2f78d8c5949e430c3b4a93b4e060",
+      "import_metadata": {
+        "path": "Assets/Art/ThirdParty/Kenney/fantasy-town-kit/SourceColors/cart.mtl.txt.meta",
+        "sha256": "e4d995c3f65697a9d2ba467d4f098b55459e7b56300d736f8c3c4b5ba77ef8d4"
+      }
+    },
+    {
+      "path": "Assets/Art/ThirdParty/Kenney/fantasy-town-kit/SourceColors/planks.mtl.txt",
+      "component": "kenney-fantasy-town-kit",
+      "bytes": 98,
+      "sha256": "45a6736aa344a0c7e286b9c43c6a48f25b6a2f78d8c5949e430c3b4a93b4e060",
+      "import_metadata": {
+        "path": "Assets/Art/ThirdParty/Kenney/fantasy-town-kit/SourceColors/planks.mtl.txt.meta",
+        "sha256": "ec1a9c3f2e9ef05a54b1f522bfbf0db61f714e2eaaa2abbd77a25324b2ff8a56"
+      }
+    },
+    {
+      "path": "Assets/Art/ThirdParty/Kenney/fantasy-town-kit/SourceColors/stall.mtl.txt",
+      "component": "kenney-fantasy-town-kit",
+      "bytes": 98,
+      "sha256": "45a6736aa344a0c7e286b9c43c6a48f25b6a2f78d8c5949e430c3b4a93b4e060",
+      "import_metadata": {
+        "path": "Assets/Art/ThirdParty/Kenney/fantasy-town-kit/SourceColors/stall.mtl.txt.meta",
+        "sha256": "1b3fbac2b26baf8633a213d7629f665ce5e5262137767e159a2ebe498f978540"
+      }
+    },
+    {
+      "path": "Assets/Art/ThirdParty/Kenney/fantasy-town-kit/Textures/colormap.png",
+      "component": "kenney-fantasy-town-kit",
+      "bytes": 11143,
+      "sha256": "4aac939dc33195e35caf8c382ee3cb170054da763577f22d3c22692ec6afccdf",
+      "import_metadata": {
+        "path": "Assets/Art/ThirdParty/Kenney/fantasy-town-kit/Textures/colormap.png.meta",
+        "sha256": "fc0a3ec77e7d12d8b984a2de3df16b6700503dd707071cb66d37861b6b537ed1"
+      }
+    },
+    {
+      "path": "Assets/Art/ThirdParty/Kenney/nature-kit/License.txt",
+      "component": "kenney-nature-kit",
+      "bytes": 611,
+      "sha256": "cb96b75e3560ac78d7a53ce6f083f4cdb5c53faea6141b62d63458dcfe1e4b9d",
+      "import_metadata": {
+        "path": "Assets/Art/ThirdParty/Kenney/nature-kit/License.txt.meta",
+        "sha256": "189d7cd7329545656abe3e96a456b8303332a8846af5f552e27b1e2350664abf"
+      }
+    },
+    {
+      "path": "Assets/Art/ThirdParty/Kenney/nature-kit/Models/crops_dirtDoubleRow.fbx",
+      "component": "kenney-nature-kit",
+      "bytes": 22249,
+      "sha256": "b5ef715a680792606b4d74cb54f30a4ddfd144a271bca49dfa8a2c2740a5a992",
+      "import_metadata": {
+        "path": "Assets/Art/ThirdParty/Kenney/nature-kit/Models/crops_dirtDoubleRow.fbx.meta",
+        "sha256": "0c36117f67880e677fb084503589f4c3c661f2ecaa017f3badb9f31fc691468c"
+      }
+    },
+    {
+      "path": "Assets/Art/ThirdParty/Kenney/nature-kit/Models/crops_wheatStageB.fbx",
+      "component": "kenney-nature-kit",
+      "bytes": 81653,
+      "sha256": "4b939a0fdd558184758ec83445faeaf5eda9e248311509162bc85227eb68bd79",
+      "import_metadata": {
+        "path": "Assets/Art/ThirdParty/Kenney/nature-kit/Models/crops_wheatStageB.fbx.meta",
+        "sha256": "0730bdaf8017544dd4a4c3b75fbf175e78206cd2d77953eb7b9459b3cdc26699"
+      }
+    },
+    {
+      "path": "Assets/Art/ThirdParty/Kenney/nature-kit/Models/grass_large.fbx",
+      "component": "kenney-nature-kit",
+      "bytes": 52888,
+      "sha256": "4a8af0f51a7d4121bf33cda97b75e222c33756b302e2d598e66246309cfaff62",
+      "import_metadata": {
+        "path": "Assets/Art/ThirdParty/Kenney/nature-kit/Models/grass_large.fbx.meta",
+        "sha256": "0ed0b790114754917dba91a488aa053f9ab142b38b34ef63c6d0e75e6da82e83"
+      }
+    },
+    {
+      "path": "Assets/Art/ThirdParty/Kenney/nature-kit/Models/log_stack.fbx",
+      "component": "kenney-nature-kit",
+      "bytes": 33923,
+      "sha256": "686cc3d50cc7070fc251962f478231375d300e64c5d79bd0b466edff6b5cec5b",
+      "import_metadata": {
+        "path": "Assets/Art/ThirdParty/Kenney/nature-kit/Models/log_stack.fbx.meta",
+        "sha256": "e50cea609beacdfbbc95581f7f6435d249d4ce762a712b57e990047dfcb65c91"
+      }
+    },
+    {
+      "path": "Assets/Art/ThirdParty/Kenney/nature-kit/Models/plant_flatTall.fbx",
+      "component": "kenney-nature-kit",
+      "bytes": 15166,
+      "sha256": "3e073dbbf00b5836600327a7aaf88335de6d734df4094a7ed69256f59736603f",
+      "import_metadata": {
+        "path": "Assets/Art/ThirdParty/Kenney/nature-kit/Models/plant_flatTall.fbx.meta",
+        "sha256": "324ab3826139be45e7f6bd779506a573a7b093bcb6c3c27183a70a7b17c43417"
+      }
+    },
+    {
+      "path": "Assets/Art/ThirdParty/Kenney/nature-kit/Models/rock_largeA.fbx",
+      "component": "kenney-nature-kit",
+      "bytes": 25590,
+      "sha256": "92d499e82fcb27146ece915cea0ba09427553221124b63bf6193c5ece7dad3e5",
+      "import_metadata": {
+        "path": "Assets/Art/ThirdParty/Kenney/nature-kit/Models/rock_largeA.fbx.meta",
+        "sha256": "6cc4af6bff4b84956b4b79a8e244becac70e641f8540394ea49a7e54627a7a53"
+      }
+    },
+    {
+      "path": "Assets/Art/ThirdParty/Kenney/nature-kit/Models/rock_smallC.fbx",
+      "component": "kenney-nature-kit",
+      "bytes": 14036,
+      "sha256": "de1d8d6ff6d47545980d539fc7a7e33105c4c32a97c84e138175ac45ef4921a6",
+      "import_metadata": {
+        "path": "Assets/Art/ThirdParty/Kenney/nature-kit/Models/rock_smallC.fbx.meta",
+        "sha256": "181567c6cb62031f9cf88a3f38abab02474a21869f8023358e5d9815c6a5e033"
+      }
+    },
+    {
+      "path": "Assets/Art/ThirdParty/Kenney/nature-kit/Models/tree_oak.fbx",
+      "component": "kenney-nature-kit",
+      "bytes": 45836,
+      "sha256": "efa277f3467e6102cce7d35381a4e8256e2346f86c6ce83a0fd02f5586b7c9fe",
+      "import_metadata": {
+        "path": "Assets/Art/ThirdParty/Kenney/nature-kit/Models/tree_oak.fbx.meta",
+        "sha256": "cf025e4c8505dd01e08a895476016345f4030349e137a40803539f9d1ddbe343"
+      }
+    },
+    {
+      "path": "Assets/Art/ThirdParty/Kenney/nature-kit/Models/tree_pineRoundA.fbx",
+      "component": "kenney-nature-kit",
+      "bytes": 41580,
+      "sha256": "f983e7273ca3c2db6cc7588d2fbbaa6e3a9eb60fa04e2901f74219863a79fb6b",
+      "import_metadata": {
+        "path": "Assets/Art/ThirdParty/Kenney/nature-kit/Models/tree_pineRoundA.fbx.meta",
+        "sha256": "c11003d0d51767ad5308506b86c7ceaf2b072b119fb54bc5070abf5bcdaad10c"
+      }
+    },
+    {
+      "path": "Assets/Art/ThirdParty/Kenney/nature-kit/Models/tree_pineTallA.fbx",
+      "component": "kenney-nature-kit",
+      "bytes": 22995,
+      "sha256": "46ba9b870e1845890d0c4d24422f0df12a25f5be6eae464b34a2c52993c17084",
+      "import_metadata": {
+        "path": "Assets/Art/ThirdParty/Kenney/nature-kit/Models/tree_pineTallA.fbx.meta",
+        "sha256": "4051cf7f347f7b7f09b549c278456177921bd0503793509282ad5348707e67c8"
+      }
+    },
+    {
+      "path": "Assets/Art/ThirdParty/Kenney/nature-kit/SourceColors/crops_dirtDoubleRow.mtl.txt",
+      "component": "kenney-nature-kit",
+      "bytes": 141,
+      "sha256": "a9066e64a3ce015cc82b7d806971719f5c292494f67a484f7372d02a0f592e53",
+      "import_metadata": {
+        "path": "Assets/Art/ThirdParty/Kenney/nature-kit/SourceColors/crops_dirtDoubleRow.mtl.txt.meta",
+        "sha256": "92c0e42c4e9120d38e0736b2b5c5713a30125eb53f50bec125e7a380c0672cdf"
+      }
+    },
+    {
+      "path": "Assets/Art/ThirdParty/Kenney/nature-kit/SourceColors/crops_wheatStageB.mtl.txt",
+      "component": "kenney-nature-kit",
+      "bytes": 125,
+      "sha256": "bff900da695cb24fbceeca928421982c064a4c5f2e547b40f8758c81d8dfa172",
+      "import_metadata": {
+        "path": "Assets/Art/ThirdParty/Kenney/nature-kit/SourceColors/crops_wheatStageB.mtl.txt.meta",
+        "sha256": "dedbc8468cd44f3de05402354f80dfdfe1a4deb646ad82335cddda52acb85379"
+      }
+    },
+    {
+      "path": "Assets/Art/ThirdParty/Kenney/nature-kit/SourceColors/grass_large.mtl.txt",
+      "component": "kenney-nature-kit",
+      "bytes": 88,
+      "sha256": "b186368ad09ddb6673f90f63c45ecac3f793b36fe14f96bd62e6d44922e7e874",
+      "import_metadata": {
+        "path": "Assets/Art/ThirdParty/Kenney/nature-kit/SourceColors/grass_large.mtl.txt.meta",
+        "sha256": "b84e46e4d832e403a8496149745d32ccccb2e535afcbd5a0b7f4477973ae968c"
+      }
+    },
+    {
+      "path": "Assets/Art/ThirdParty/Kenney/nature-kit/SourceColors/log_stack.mtl.txt",
+      "component": "kenney-nature-kit",
+      "bytes": 146,
+      "sha256": "0da11a6ffeafc7ba144a51e856e10e1143bd4e94aa99a69a2eea30239e58a7d5",
+      "import_metadata": {
+        "path": "Assets/Art/ThirdParty/Kenney/nature-kit/SourceColors/log_stack.mtl.txt.meta",
+        "sha256": "7f4f1ad715dcbe4ef15f8e9e975eada972a9f4a2be9fd100c4c457885afd0412"
+      }
+    },
+    {
+      "path": "Assets/Art/ThirdParty/Kenney/nature-kit/SourceColors/plant_flatTall.mtl.txt",
+      "component": "kenney-nature-kit",
+      "bytes": 94,
+      "sha256": "df409a06731706f40b6b36eeaae085e2500009721c2098063e80cf045c464952",
+      "import_metadata": {
+        "path": "Assets/Art/ThirdParty/Kenney/nature-kit/SourceColors/plant_flatTall.mtl.txt.meta",
+        "sha256": "4994f02016830af018db0fa3ace1adc6557bcd0490142bcf665ead26af3e82fc"
+      }
+    },
+    {
+      "path": "Assets/Art/ThirdParty/Kenney/nature-kit/SourceColors/rock_largeA.mtl.txt",
+      "component": "kenney-nature-kit",
+      "bytes": 137,
+      "sha256": "b1f406513a297dd69c38653fd9b9de390123ff45242be9bf204f775d9e88c98c",
+      "import_metadata": {
+        "path": "Assets/Art/ThirdParty/Kenney/nature-kit/SourceColors/rock_largeA.mtl.txt.meta",
+        "sha256": "fc1640f91a1e28a604252b7947b0d1427c3a686b622b70c6134d7b6864769f64"
+      }
+    },
+    {
+      "path": "Assets/Art/ThirdParty/Kenney/nature-kit/SourceColors/rock_smallC.mtl.txt",
+      "component": "kenney-nature-kit",
+      "bytes": 137,
+      "sha256": "b1f406513a297dd69c38653fd9b9de390123ff45242be9bf204f775d9e88c98c",
+      "import_metadata": {
+        "path": "Assets/Art/ThirdParty/Kenney/nature-kit/SourceColors/rock_smallC.mtl.txt.meta",
+        "sha256": "ce9f567db90398b38fbfc87e5144f6d811dfe15b9f02916d8afe04dc6a50d29f"
+      }
+    },
+    {
+      "path": "Assets/Art/ThirdParty/Kenney/nature-kit/SourceColors/tree_oak.mtl.txt",
+      "component": "kenney-nature-kit",
+      "bytes": 147,
+      "sha256": "0d90ca9c9ac521fcc0a0889ac1aca36f6e4b4ab6cd6975c337ecaf764f08e2e7",
+      "import_metadata": {
+        "path": "Assets/Art/ThirdParty/Kenney/nature-kit/SourceColors/tree_oak.mtl.txt.meta",
+        "sha256": "adf9cc1f43cec6a23421ace99cdfc3948a07b3a88c6ddcd1f0ccf9e036097bd6"
+      }
+    },
+    {
+      "path": "Assets/Art/ThirdParty/Kenney/nature-kit/SourceColors/tree_pineRoundA.mtl.txt",
+      "component": "kenney-nature-kit",
+      "bytes": 144,
+      "sha256": "933a40d74e752aa7baf489cd76a1ca36c7fffe95f2c16410772c715c4e102ec6",
+      "import_metadata": {
+        "path": "Assets/Art/ThirdParty/Kenney/nature-kit/SourceColors/tree_pineRoundA.mtl.txt.meta",
+        "sha256": "6b95931160547b239e0d7a800e2a3a707fcf4ce447759fae569daafcd665bddb"
+      }
+    },
+    {
+      "path": "Assets/Art/ThirdParty/Kenney/nature-kit/SourceColors/tree_pineTallA.mtl.txt",
+      "component": "kenney-nature-kit",
+      "bytes": 144,
+      "sha256": "933a40d74e752aa7baf489cd76a1ca36c7fffe95f2c16410772c715c4e102ec6",
+      "import_metadata": {
+        "path": "Assets/Art/ThirdParty/Kenney/nature-kit/SourceColors/tree_pineTallA.mtl.txt.meta",
+        "sha256": "544e746f1e628200802ae610b188a2879ff486e9f02a9486b88e3d16f84a7673"
+      }
+    },
+    {
+      "path": "Assets/Art/ThirdParty/Sketchfab/MedievalVillage/AllAssets.fbx",
+      "component": "medieval-village",
+      "bytes": 1948892,
+      "sha256": "7e1c3807d0fb5b8d74080b678f6d061f493624568f918f3e39f1639e5e144461",
+      "import_metadata": {
+        "path": "Assets/Art/ThirdParty/Sketchfab/MedievalVillage/AllAssets.fbx.meta",
+        "sha256": "39b67eebbb90b96e9d84bba5bbb10da06b9178c90247b3fbd5d90cf53b1d935d"
+      }
+    },
+    {
+      "path": "Assets/Art/ThirdParty/Sketchfab/MedievalVillage/ATTRIBUTION.txt",
+      "component": "medieval-village",
+      "bytes": 1710,
+      "sha256": "c4acd276d52f0e25fb8f54adb39ca2e8428610269dccec2bbfa13870dab10d64",
+      "import_metadata": {
+        "path": "Assets/Art/ThirdParty/Sketchfab/MedievalVillage/ATTRIBUTION.txt.meta",
+        "sha256": "99fc813e6b386baad523e4b5bc87983d66fdb9727f686652d2f09cf49799a00e"
+      }
+    },
+    {
+      "path": "Assets/TextMesh Pro/Fonts/LiberationSans - OFL.txt",
+      "component": "liberation-sans",
+      "bytes": 4469,
+      "sha256": "37f8552e9a874ec10710dc0ede6a9adf168e6609fbd02a507f35629373b85a48",
+      "import_metadata": {
+        "path": "Assets/TextMesh Pro/Fonts/LiberationSans - OFL.txt.meta",
+        "sha256": "5dbec32c014c17d94674af5f1494d49b42ba00edd50397f895f088c868ccbf86"
+      }
+    },
+    {
+      "path": "Assets/TextMesh Pro/Fonts/LiberationSans.ttf",
+      "component": "liberation-sans",
+      "bytes": 350200,
+      "sha256": "e5b0af421ea2bfbc1ac8d251d647268087ae82786234c57f757d1f0b90fa8b49",
+      "import_metadata": {
+        "path": "Assets/TextMesh Pro/Fonts/LiberationSans.ttf.meta",
+        "sha256": "e2e35a015703584fb119355fa02631764d111c3e112d32519801d46bd697b596"
+      }
+    },
+    {
+      "path": "Assets/TextMesh Pro/Resources/Fonts & Materials/LiberationSans SDF - Drop Shadow.mat",
+      "component": "textmesh-pro-resources",
+      "bytes": 2975,
+      "sha256": "b6b65c34e4907dd3006c2217fc8a4cef81b6da24df0a3de8e2288199eb6c5a9d",
+      "import_metadata": {
+        "path": "Assets/TextMesh Pro/Resources/Fonts & Materials/LiberationSans SDF - Drop Shadow.mat.meta",
+        "sha256": "ef2eee63b288d47823da38109e3e8c879f4717a82dc662ac2d5e2460dacde698"
+      }
+    },
+    {
+      "path": "Assets/TextMesh Pro/Resources/Fonts & Materials/LiberationSans SDF - Fallback.asset",
+      "component": "liberation-sans",
+      "bytes": 9748,
+      "sha256": "f53586850a70c4f308e7e71b99b63881a49f38de4bd40f4edb7fe7ae6ecf8a52",
+      "import_metadata": {
+        "path": "Assets/TextMesh Pro/Resources/Fonts & Materials/LiberationSans SDF - Fallback.asset.meta",
+        "sha256": "d6d86504040cf6e736767fda9bdef494afb06d5304384243e2dd703eba3a4a3d"
+      }
+    },
+    {
+      "path": "Assets/TextMesh Pro/Resources/Fonts & Materials/LiberationSans SDF - Outline.mat",
+      "component": "textmesh-pro-resources",
+      "bytes": 2889,
+      "sha256": "25874340976d40e9f9e8abf731b7f32e5a478541dead9288140bd60c7a3287d9",
+      "import_metadata": {
+        "path": "Assets/TextMesh Pro/Resources/Fonts & Materials/LiberationSans SDF - Outline.mat.meta",
+        "sha256": "a8cf0ee9888a163e892368b4660b9c62a7375e7f8afdb8ee02e5c91ca1cdb355"
+      }
+    },
+    {
+      "path": "Assets/TextMesh Pro/Resources/Fonts & Materials/LiberationSans SDF.asset",
+      "component": "liberation-sans",
+      "bytes": 2256862,
+      "sha256": "c3ff50e3133d989180b187748ffc67903f1fede099a5b85b4fcbd8cb6e8be958",
+      "import_metadata": {
+        "path": "Assets/TextMesh Pro/Resources/Fonts & Materials/LiberationSans SDF.asset.meta",
+        "sha256": "37233890984555987cb585551bc885069f2849a9b0d1c2191af073b9376aa10f"
+      }
+    },
+    {
+      "path": "Assets/TextMesh Pro/Resources/LineBreaking Following Characters.txt",
+      "component": "textmesh-pro-resources",
+      "bytes": 269,
+      "sha256": "3a73e5ffe2510756dd3c2e982fdc1218b4be82c6e21abde88070d6860e1bc8e6",
+      "import_metadata": {
+        "path": "Assets/TextMesh Pro/Resources/LineBreaking Following Characters.txt.meta",
+        "sha256": "d5a86d8b7db6aa3ca6f4a63750eb94e0c42a64909b47d8c6c6f2565845534490"
+      }
+    },
+    {
+      "path": "Assets/TextMesh Pro/Resources/LineBreaking Leading Characters.txt",
+      "component": "textmesh-pro-resources",
+      "bytes": 95,
+      "sha256": "62d3f4d5f64aaf885692d2d13a8313f6918e6e4c5aeb3990a43f614652bfd89c",
+      "import_metadata": {
+        "path": "Assets/TextMesh Pro/Resources/LineBreaking Leading Characters.txt.meta",
+        "sha256": "6a925814d5e251a0ced6de210db2bacf2de29b4f0dc2991e85c908632e9565e4"
+      }
+    },
+    {
+      "path": "Assets/TextMesh Pro/Resources/Style Sheets/Default Style Sheet.asset",
+      "component": "textmesh-pro-resources",
+      "bytes": 5539,
+      "sha256": "93e073cdb91b7e3d2fa31e2dd13626d7b9d2f327904ba8c3c2b97a3eecfbabac",
+      "import_metadata": {
+        "path": "Assets/TextMesh Pro/Resources/Style Sheets/Default Style Sheet.asset.meta",
+        "sha256": "b832663ca09ec7af8c8e816fd91a718b2af6c21ab4f126fa818871ad53bce763"
+      }
+    },
+    {
+      "path": "Assets/TextMesh Pro/Resources/TMP Settings.asset",
+      "component": "textmesh-pro-resources",
+      "bytes": 1852,
+      "sha256": "7be438062cdc296835a1258b68bcbeb8e9fdc4b01ea27c05a24a1074260f7424",
+      "import_metadata": {
+        "path": "Assets/TextMesh Pro/Resources/TMP Settings.asset.meta",
+        "sha256": "a65193b095ec3606789a3191751a837704cf52d4f461993ae7903024c6d43f45"
+      }
+    },
+    {
+      "path": "Assets/TextMesh Pro/Shaders/SDFFunctions.hlsl",
+      "component": "textmesh-pro-resources",
+      "bytes": 6021,
+      "sha256": "88cf0f62e4000b71750c059d0886b19504cd1cf10f39bb61ddc11b77a882d417",
+      "import_metadata": {
+        "path": "Assets/TextMesh Pro/Shaders/SDFFunctions.hlsl.meta",
+        "sha256": "e1d0c5347b3c55930759f5bc0985e11611a4b2ff22eef24523eb108687bd1642"
+      }
+    },
+    {
+      "path": "Assets/TextMesh Pro/Shaders/TMP_Bitmap-Custom-Atlas.shader",
+      "component": "textmesh-pro-resources",
+      "bytes": 3836,
+      "sha256": "42892a52f22bdde6d482cf2da5f35e4b813063fc6fe42189eee5562080079494",
+      "import_metadata": {
+        "path": "Assets/TextMesh Pro/Shaders/TMP_Bitmap-Custom-Atlas.shader.meta",
+        "sha256": "91be1d5618a7da33c878e20cf2be3e13b897d4976c70bde0cda7a67dbd502cd2"
+      }
+    },
+    {
+      "path": "Assets/TextMesh Pro/Shaders/TMP_Bitmap-Mobile.shader",
+      "component": "textmesh-pro-resources",
+      "bytes": 4071,
+      "sha256": "b50afc7edc8a710f8b4159149b2391e7238b5e4076cc0ea2119090ed29e13b4a",
+      "import_metadata": {
+        "path": "Assets/TextMesh Pro/Shaders/TMP_Bitmap-Mobile.shader.meta",
+        "sha256": "7430f3e97ae1b46f34e1ca75508705bb7b944307c41dc568ea728011f327086d"
+      }
+    },
+    {
+      "path": "Assets/TextMesh Pro/Shaders/TMP_Bitmap.shader",
+      "component": "textmesh-pro-resources",
+      "bytes": 3839,
+      "sha256": "1d32f34c71276c1321aa0540a2410e15808743a38b2026923045a4dec4a79b58",
+      "import_metadata": {
+        "path": "Assets/TextMesh Pro/Shaders/TMP_Bitmap.shader.meta",
+        "sha256": "3d462e6f8ba57f45dc5e6000020db066c36ed5a1a24f74f749727812373c2325"
+      }
+    },
+    {
+      "path": "Assets/TextMesh Pro/Shaders/TMP_SDF Overlay.shader",
+      "component": "textmesh-pro-resources",
+      "bytes": 11054,
+      "sha256": "a0d318756cba0f95a7052c387e629d0add3e9a4125c8333f1d1ed591af5f17cb",
+      "import_metadata": {
+        "path": "Assets/TextMesh Pro/Shaders/TMP_SDF Overlay.shader.meta",
+        "sha256": "fb8fc84b612e19c169cdf3596195b416e68d227a8987a0eaa90d8c137fb69797"
+      }
+    },
+    {
+      "path": "Assets/TextMesh Pro/Shaders/TMP_SDF SpaceWarp.shader",
+      "component": "textmesh-pro-resources",
+      "bytes": 17614,
+      "sha256": "cdc87d1df815b00e49cb2fd3010e872fdf740f89f81c915fd1a3d974bd8a596e",
+      "import_metadata": {
+        "path": "Assets/TextMesh Pro/Shaders/TMP_SDF SpaceWarp.shader.meta",
+        "sha256": "bc7460ef63f01a2b0b6751d2b884e2fd9722b47154355a8fe3deb2ae785c41b2"
+      }
+    },
+    {
+      "path": "Assets/TextMesh Pro/Shaders/TMP_SDF SSD SpaceWarp.shader",
+      "component": "textmesh-pro-resources",
+      "bytes": 18939,
+      "sha256": "40f4d9f424e2b72cb80af23439f383bc9502582780436222d84806cedbb8797b",
+      "import_metadata": {
+        "path": "Assets/TextMesh Pro/Shaders/TMP_SDF SSD SpaceWarp.shader.meta",
+        "sha256": "f7d4082f4e7c62a4db152ee4c1432f41f53caaf8d364862215d1ac27db520b6a"
+      }
+    },
+    {
+      "path": "Assets/TextMesh Pro/Shaders/TMP_SDF SSD.shader",
+      "component": "textmesh-pro-resources",
+      "bytes": 12438,
+      "sha256": "2a991951b00b0c052363a1025f655450054325437b3d13c2623a987c8ec77c30",
+      "import_metadata": {
+        "path": "Assets/TextMesh Pro/Shaders/TMP_SDF SSD.shader.meta",
+        "sha256": "bea74d576f181a8bb04b8cf02eedd0136540325ecb2824928a3aa52c75adcb13"
+      }
+    },
+    {
+      "path": "Assets/TextMesh Pro/Shaders/TMP_SDF-HDRP LIT.shadergraph",
+      "component": "textmesh-pro-resources",
+      "bytes": 287427,
+      "sha256": "bf68062f68b38b588abd1c354f64e905f824d9a2c47f92ebdd70a32989eb2097",
+      "import_metadata": {
+        "path": "Assets/TextMesh Pro/Shaders/TMP_SDF-HDRP LIT.shadergraph.meta",
+        "sha256": "d1b70558e8b974d918e13c010db6d375fef815ba530bc2421ab031aa3a784ee8"
+      }
+    },
+    {
+      "path": "Assets/TextMesh Pro/Shaders/TMP_SDF-HDRP UNLIT.shadergraph",
+      "component": "textmesh-pro-resources",
+      "bytes": 279909,
+      "sha256": "8a969c2d775079cce4e1c45d5eb6d3964b27d44dc884178363050c74fd5e9742",
+      "import_metadata": {
+        "path": "Assets/TextMesh Pro/Shaders/TMP_SDF-HDRP UNLIT.shadergraph.meta",
+        "sha256": "8cd498ce8f6ed2e7c0560d605eb912455cd6fdaf09a4d545d9743f63b3426bd0"
+      }
+    },
+    {
+      "path": "Assets/TextMesh Pro/Shaders/TMP_SDF-Mobile Masking.shader",
+      "component": "textmesh-pro-resources",
+      "bytes": 8273,
+      "sha256": "41cff58473557bf760d03513a8c098f43a24e4eeb4c8ccd7d828c045a338a9ed",
+      "import_metadata": {
+        "path": "Assets/TextMesh Pro/Shaders/TMP_SDF-Mobile Masking.shader.meta",
+        "sha256": "3744d078f9a8b6d3c5d9bca51e43f9223544fcafaf9396e121f49ea84a0609d3"
+      }
+    },
+    {
+      "path": "Assets/TextMesh Pro/Shaders/TMP_SDF-Mobile Overlay.shader",
+      "component": "textmesh-pro-resources",
+      "bytes": 8081,
+      "sha256": "fb286386d0592ce6d63eb736f180b4b0f638ec538b0855aa54767a438ebd1173",
+      "import_metadata": {
+        "path": "Assets/TextMesh Pro/Shaders/TMP_SDF-Mobile Overlay.shader.meta",
+        "sha256": "1eeca1536c7506f79d4d877b866a5fb88db8f402634e091b6d78aa9d21c9d18b"
+      }
+    },
+    {
+      "path": "Assets/TextMesh Pro/Shaders/TMP_SDF-Mobile SpaceWarp.shader",
+      "component": "textmesh-pro-resources",
+      "bytes": 15442,
+      "sha256": "d28725953a5b116c5c2e141bd7fdb8f7fbd3c0157f9dccf5c88d96b488c969bb",
+      "import_metadata": {
+        "path": "Assets/TextMesh Pro/Shaders/TMP_SDF-Mobile SpaceWarp.shader.meta",
+        "sha256": "8f8955ca75950b16c9a6a23f2f37ab3ada23f3ff2e06f29d9516c617864e573e"
+      }
+    },
+    {
+      "path": "Assets/TextMesh Pro/Shaders/TMP_SDF-Mobile SSD SpaceWarp.shader",
+      "component": "textmesh-pro-resources",
+      "bytes": 15531,
+      "sha256": "a9d58993803f78a3288bda17903c20b3e5eeaf947993f5f9d3c2b783458d668c",
+      "import_metadata": {
+        "path": "Assets/TextMesh Pro/Shaders/TMP_SDF-Mobile SSD SpaceWarp.shader.meta",
+        "sha256": "e0dcd630980b5847605e5c5ec58898bc3d9eedf17588fc42155ce2ab0d255321"
+      }
+    },
+    {
+      "path": "Assets/TextMesh Pro/Shaders/TMP_SDF-Mobile SSD.shader",
+      "component": "textmesh-pro-resources",
+      "bytes": 3064,
+      "sha256": "8b30c140f6af9134392fe6ecf4c0676db73f873489ac52adfb47bbd288cb51b8",
+      "import_metadata": {
+        "path": "Assets/TextMesh Pro/Shaders/TMP_SDF-Mobile SSD.shader.meta",
+        "sha256": "e3412891b9306b017e60cba4ae4f6d258ee8b161d986dcde9cefb3d60345514d"
+      }
+    },
+    {
+      "path": "Assets/TextMesh Pro/Shaders/TMP_SDF-Mobile-2-Pass.shader",
+      "component": "textmesh-pro-resources",
+      "bytes": 11794,
+      "sha256": "dd92066fccff4ce3c49eaa1e13c9fa1a9427e864b2fcb57e1e010c5e47459ac1",
+      "import_metadata": {
+        "path": "Assets/TextMesh Pro/Shaders/TMP_SDF-Mobile-2-Pass.shader.meta",
+        "sha256": "65ecbce6f1621f2d7ddc5e6004dda5e55e1f58ec6e01178f3691e1e81e01de55"
+      }
+    },
+    {
+      "path": "Assets/TextMesh Pro/Shaders/TMP_SDF-Mobile.shader",
+      "component": "textmesh-pro-resources",
+      "bytes": 8074,
+      "sha256": "44c39aabc7e88e7e1feffc1880df754f4adf86b62e9512aa89e9d2d65171aff4",
+      "import_metadata": {
+        "path": "Assets/TextMesh Pro/Shaders/TMP_SDF-Mobile.shader.meta",
+        "sha256": "f2112f50c72762d4e6731391495ea11f76975d677b698e9bcfdd38275ea18f9d"
+      }
+    },
+    {
+      "path": "Assets/TextMesh Pro/Shaders/TMP_SDF-Surface-Mobile.shader",
+      "component": "textmesh-pro-resources",
+      "bytes": 3523,
+      "sha256": "f9fae5906dd37d89298338953294459975de58a5421e68dd9e82a79794b95509",
+      "import_metadata": {
+        "path": "Assets/TextMesh Pro/Shaders/TMP_SDF-Surface-Mobile.shader.meta",
+        "sha256": "95aa060f371ee503a22c0a0b018e029c0328bd82b9317feaa784432b0a787343"
+      }
+    },
+    {
+      "path": "Assets/TextMesh Pro/Shaders/TMP_SDF-Surface.shader",
+      "component": "textmesh-pro-resources",
+      "bytes": 4353,
+      "sha256": "5dadb68b56429547918b392626e9af8fd5173936d20bb43cfca58dfa00947257",
+      "import_metadata": {
+        "path": "Assets/TextMesh Pro/Shaders/TMP_SDF-Surface.shader.meta",
+        "sha256": "42439f5ac7491998f562e8ede73d64c3512953eb99fb1b49e833f5d9999a7660"
+      }
+    },
+    {
+      "path": "Assets/TextMesh Pro/Shaders/TMP_SDF-URP Lit.shadergraph",
+      "component": "textmesh-pro-resources",
+      "bytes": 283866,
+      "sha256": "e0148ce8e5904232a4e711376a45b7af2a007fb9690c5a69c1cb4952a696cdbf",
+      "import_metadata": {
+        "path": "Assets/TextMesh Pro/Shaders/TMP_SDF-URP Lit.shadergraph.meta",
+        "sha256": "4c36abf5f2611c9d2cb04e7da8c30e42077503a17cb218020e171b6d3ff664f7"
+      }
+    },
+    {
+      "path": "Assets/TextMesh Pro/Shaders/TMP_SDF-URP Unlit.shadergraph",
+      "component": "textmesh-pro-resources",
+      "bytes": 277012,
+      "sha256": "dc15b6819ad87a4b34ed888ae2c274624efc0ada902d1a9e7752d87922414dcc",
+      "import_metadata": {
+        "path": "Assets/TextMesh Pro/Shaders/TMP_SDF-URP Unlit.shadergraph.meta",
+        "sha256": "f1ef815e2672fd770f47ee424c64f7ecdbdc642b7475828c29db032586aa10b6"
+      }
+    },
+    {
+      "path": "Assets/TextMesh Pro/Shaders/TMP_SDF.shader",
+      "component": "textmesh-pro-resources",
+      "bytes": 11027,
+      "sha256": "10efe6d4728474a09970b857faf37913793e168dc13dbd4d7316b54b37615d97",
+      "import_metadata": {
+        "path": "Assets/TextMesh Pro/Shaders/TMP_SDF.shader.meta",
+        "sha256": "0897fb06d170043fffa2d28783b347bbaee87a3f09f08374ca44b2c3848697d6"
+      }
+    },
+    {
+      "path": "Assets/TextMesh Pro/Shaders/TMP_Sprite.shader",
+      "component": "textmesh-pro-resources",
+      "bytes": 3446,
+      "sha256": "af669bb9ae136c8099f8e0a94a6933fd2f1e1fb0a6842129939a319fab4b8dbb",
+      "import_metadata": {
+        "path": "Assets/TextMesh Pro/Shaders/TMP_Sprite.shader.meta",
+        "sha256": "9609584c5249687f3765f0018a93dfd6445c7e35d5aee4e87556f111c8852819"
+      }
+    },
+    {
+      "path": "Assets/TextMesh Pro/Shaders/TMPro_Mobile.cginc",
+      "component": "textmesh-pro-resources",
+      "bytes": 5453,
+      "sha256": "d9d43ddd9810476162f21b42477d9ce2cdc4e6cc7571d354c3253aafc6673ead",
+      "import_metadata": {
+        "path": "Assets/TextMesh Pro/Shaders/TMPro_Mobile.cginc.meta",
+        "sha256": "2e16fa15ef884a60a402d8b696f8b09e5315cbb468ba223d256030c7fe2b0667"
+      }
+    },
+    {
+      "path": "Assets/TextMesh Pro/Shaders/TMPro_Properties.cginc",
+      "component": "textmesh-pro-resources",
+      "bytes": 2707,
+      "sha256": "66db1f03e8d7a413eba79bcb6602fdb2de710b586f34a6f2584ed6f68f028e90",
+      "import_metadata": {
+        "path": "Assets/TextMesh Pro/Shaders/TMPro_Properties.cginc.meta",
+        "sha256": "edace33591894d86d9a4144466fb3606e538d3341030fe22f908551755120ea5"
+      }
+    },
+    {
+      "path": "Assets/TextMesh Pro/Shaders/TMPro_Surface.cginc",
+      "component": "textmesh-pro-resources",
+      "bytes": 3515,
+      "sha256": "244b442520282a66363d121c8d2aeeb30bb1e72cbbadbf41ce68d9100322ade5",
+      "import_metadata": {
+        "path": "Assets/TextMesh Pro/Shaders/TMPro_Surface.cginc.meta",
+        "sha256": "247746f3a4e39dd24d1ad99e4fae03ae8976586307948b2846529a876dcb0a63"
+      }
+    },
+    {
+      "path": "Assets/TextMesh Pro/Shaders/TMPro.cginc",
+      "component": "textmesh-pro-resources",
+      "bytes": 2277,
+      "sha256": "14edb7d7b88caf2b82cae68200abe895e5b5b3474c3fffbf0e9b4b09a4e2467e",
+      "import_metadata": {
+        "path": "Assets/TextMesh Pro/Shaders/TMPro.cginc.meta",
+        "sha256": "a9cf9d5431b809e36b8ffff4377b5ebda7d386a36d48838cd134bc09f3caec6c"
+      }
+    }
+  ]
+}
